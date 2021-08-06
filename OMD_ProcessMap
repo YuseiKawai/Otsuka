@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-06T01:41:12.257Z" agent="5.0 (Windows)" etag="AoGipWb82fbkn7aBbdVO" version="14.9.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-08-06T07:01:58.776Z" agent="5.0 (Windows)" etag="AMEZi1p3p9SRLh79LrZ8" version="14.9.4" type="github" pages="4">
   <diagram id="V4dAq2QRkkkrwrkthCsC" name="基本構造">
     <mxGraphModel dx="1422" dy="881" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -660,7 +660,7 @@
         <mxCell id="pJqoHFuwsOEvVSRi3Syu-30" value="" style="group" parent="TC1u3Ls2ZcS3L5okFnxG-1" vertex="1" connectable="0">
           <mxGeometry x="-100" y="310" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pJqoHFuwsOEvVSRi3Syu-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;fontColor=#FFFFFF;gradientColor=#FF3333;gradientDirection=east;fillColor=none;strokeColor=#B3B3B3;" parent="pJqoHFuwsOEvVSRi3Syu-30" vertex="1">
+        <mxCell id="pJqoHFuwsOEvVSRi3Syu-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;gradientDirection=east;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="pJqoHFuwsOEvVSRi3Syu-30" vertex="1">
           <mxGeometry x="10" y="10" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pJqoHFuwsOEvVSRi3Syu-21" value="開発、商業化研究" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;strokeColor=none;fontColor=#FFFFFF;fontSize=9;fillColor=#64BBE2;gradientColor=#529ABA;gradientDirection=east;" parent="pJqoHFuwsOEvVSRi3Syu-30" vertex="1">
