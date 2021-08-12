@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-12T05:26:36.246Z" agent="5.0 (Windows)" etag="9mKf1BaRCB4WgSPEYSVT" version="14.9.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-08-12T08:13:16.136Z" agent="5.0 (Windows)" etag="ebusbyGarTlLFEPWXkWt" version="14.9.4" type="github" pages="4">
   <diagram id="V4dAq2QRkkkrwrkthCsC" name="基本構造">
     <mxGraphModel dx="2702" dy="1481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -650,7 +650,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="d_9jfkXvOqWhi3NVa_v2" name="BM3D">
-    <mxGraphModel dx="1931" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1572" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="TC1u3Ls2ZcS3L5okFnxG-0" />
         <mxCell id="TC1u3Ls2ZcS3L5okFnxG-1" parent="TC1u3Ls2ZcS3L5okFnxG-0" />
@@ -786,24 +786,6 @@
         <mxCell id="pJqoHFuwsOEvVSRi3Syu-52" value="プロトタイプ検証" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;strokeColor=none;fontColor=#FFFFFF;fontSize=10;fillColor=#64BBE2;gradientColor=#529ABA;gradientDirection=east;" parent="f0j1p0aatQxTC4rwtdJw-7" vertex="1">
           <mxGeometry x="147.5" y="20" width="105" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pJqoHFuwsOEvVSRi3Syu-53" value="Veryan_Stent / DeliverySystem" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=10;fontFamily=Montserrat;fontColor=#999999;fillColor=#ffffff;" parent="f0j1p0aatQxTC4rwtdJw-7" vertex="1">
-          <mxGeometry width="160" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="f0j1p0aatQxTC4rwtdJw-10" value="" style="group" parent="TC1u3Ls2ZcS3L5okFnxG-1" vertex="1" connectable="0">
-          <mxGeometry x="-400" y="240" width="270" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="pJqoHFuwsOEvVSRi3Syu-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;gradientDirection=east;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="f0j1p0aatQxTC4rwtdJw-10" vertex="1">
-          <mxGeometry y="10" width="270" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="TC1u3Ls2ZcS3L5okFnxG-5" value="プロトタイプ作成" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;strokeColor=none;fontColor=#FFFFFF;fontSize=10;fillColor=#64BBE2;gradientColor=#529ABA;gradientDirection=east;" parent="f0j1p0aatQxTC4rwtdJw-10" vertex="1">
-          <mxGeometry x="22.380952380952408" y="20" width="111.42857142857142" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TC1u3Ls2ZcS3L5okFnxG-6" value="検証全般" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;strokeColor=none;fontColor=#FFFFFF;fontSize=10;fillColor=#64BBE2;gradientColor=#529ABA;gradientDirection=east;" parent="f0j1p0aatQxTC4rwtdJw-10" vertex="1">
-          <mxGeometry x="146.19047619047618" y="20" width="111.42857142857142" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="pJqoHFuwsOEvVSRi3Syu-26" value="Stent_Qualimed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=10;fontFamily=Montserrat;fontColor=#999999;fillColor=#ffffff;" parent="f0j1p0aatQxTC4rwtdJw-10" vertex="1">
-          <mxGeometry x="9.997248677248649" width="90" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="f0j1p0aatQxTC4rwtdJw-12" value="" style="group" parent="TC1u3Ls2ZcS3L5okFnxG-1" vertex="1" connectable="0">
           <mxGeometry x="135" y="170" width="215" height="60" as="geometry" />
         </mxCell>
@@ -848,6 +830,27 @@
         </mxCell>
         <mxCell id="f0j1p0aatQxTC4rwtdJw-18" value="TM_Tore" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=10;fontFamily=Montserrat;fontColor=#999999;fillColor=#ffffff;" parent="f0j1p0aatQxTC4rwtdJw-14" vertex="1">
           <mxGeometry x="30" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pJqoHFuwsOEvVSRi3Syu-53" value="Veryan_Stent / DeliverySystem" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=10;fontFamily=Montserrat;fontColor=#999999;" parent="TC1u3Ls2ZcS3L5okFnxG-1" vertex="1">
+          <mxGeometry x="-400" y="160" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_21PYW9TsEk70Cp1h_mI-0" value="" style="group" vertex="1" connectable="0" parent="TC1u3Ls2ZcS3L5okFnxG-1">
+          <mxGeometry x="-400.00275132275135" y="240" width="270.00275132275135" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="f0j1p0aatQxTC4rwtdJw-10" value="" style="group" parent="_21PYW9TsEk70Cp1h_mI-0" vertex="1" connectable="0">
+          <mxGeometry x="0.0027513227513509264" y="10" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pJqoHFuwsOEvVSRi3Syu-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;gradientDirection=east;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="f0j1p0aatQxTC4rwtdJw-10" vertex="1">
+          <mxGeometry y="10" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TC1u3Ls2ZcS3L5okFnxG-5" value="プロトタイプ作成" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;strokeColor=none;fontColor=#FFFFFF;fontSize=10;fillColor=#64BBE2;gradientColor=#529ABA;gradientDirection=east;" parent="f0j1p0aatQxTC4rwtdJw-10" vertex="1">
+          <mxGeometry x="22.380952380952408" y="20" width="111.42857142857142" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TC1u3Ls2ZcS3L5okFnxG-6" value="検証全般" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;strokeColor=none;fontColor=#FFFFFF;fontSize=10;fillColor=#64BBE2;gradientColor=#529ABA;gradientDirection=east;" parent="f0j1p0aatQxTC4rwtdJw-10" vertex="1">
+          <mxGeometry x="146.19047619047618" y="20" width="111.42857142857142" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pJqoHFuwsOEvVSRi3Syu-26" value="Stent_Qualimed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=10;fontFamily=Montserrat;fontColor=#999999;" parent="_21PYW9TsEk70Cp1h_mI-0" vertex="1">
+          <mxGeometry width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
