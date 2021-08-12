@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-06T07:01:58.776Z" agent="5.0 (Windows)" etag="AMEZi1p3p9SRLh79LrZ8" version="14.9.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-08-12T05:26:36.246Z" agent="5.0 (Windows)" etag="9mKf1BaRCB4WgSPEYSVT" version="14.9.4" type="github" pages="4">
   <diagram id="V4dAq2QRkkkrwrkthCsC" name="基本構造">
-    <mxGraphModel dx="1422" dy="881" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2702" dy="1481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="tRT5p0yuFowEf95ctvON-0" />
         <mxCell id="tRT5p0yuFowEf95ctvON-1" parent="tRT5p0yuFowEf95ctvON-0" />
@@ -650,7 +650,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="d_9jfkXvOqWhi3NVa_v2" name="BM3D">
-    <mxGraphModel dx="1663" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1931" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="TC1u3Ls2ZcS3L5okFnxG-0" />
         <mxCell id="TC1u3Ls2ZcS3L5okFnxG-1" parent="TC1u3Ls2ZcS3L5okFnxG-0" />
@@ -669,8 +669,8 @@
         <mxCell id="pJqoHFuwsOEvVSRi3Syu-22" value="&lt;div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Noto+sans+JP&quot; style=&quot;font-size: 10px&quot; face=&quot;Helvetica&quot;&gt;製造&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;strokeColor=none;fontColor=#FFFFFF;fontSize=10;fillColor=#64BBE2;gradientColor=#529ABA;gradientDirection=east;" parent="pJqoHFuwsOEvVSRi3Syu-30" vertex="1">
           <mxGeometry x="120" y="20" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pJqoHFuwsOEvVSRi3Syu-28" value="DelivalySystem_Vestamed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=10;fontFamily=Montserrat;fontColor=#999999;fillColor=#ffffff;" parent="pJqoHFuwsOEvVSRi3Syu-30" vertex="1">
-          <mxGeometry width="140" height="20" as="geometry" />
+        <mxCell id="pJqoHFuwsOEvVSRi3Syu-28" value="DelivalySystem_Vistamed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=10;fontFamily=Montserrat;fontColor=#999999;fillColor=#ffffff;" parent="pJqoHFuwsOEvVSRi3Syu-30" vertex="1">
+          <mxGeometry x="5" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pJqoHFuwsOEvVSRi3Syu-32" value="" style="group" parent="TC1u3Ls2ZcS3L5okFnxG-1" vertex="1" connectable="0">
           <mxGeometry x="-100" y="170" width="220" height="60" as="geometry" />
@@ -756,25 +756,25 @@
         <mxCell id="ACd8CCQLazUFKrJIgAvh-1" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;Veryan QMS&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=18;fontFamily=Montserrat;fontColor=#808080;" parent="TC1u3Ls2ZcS3L5okFnxG-1" vertex="1">
           <mxGeometry x="-425" y="40" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f0j1p0aatQxTC4rwtdJw-0" value="" style="group" vertex="1" connectable="0" parent="TC1u3Ls2ZcS3L5okFnxG-1">
+        <mxCell id="f0j1p0aatQxTC4rwtdJw-0" value="" style="group" parent="TC1u3Ls2ZcS3L5okFnxG-1" vertex="1" connectable="0">
           <mxGeometry x="-100" y="240" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="f0j1p0aatQxTC4rwtdJw-1" value="" style="group" vertex="1" connectable="0" parent="f0j1p0aatQxTC4rwtdJw-0">
+        <mxCell id="f0j1p0aatQxTC4rwtdJw-1" value="" style="group" parent="f0j1p0aatQxTC4rwtdJw-0" vertex="1" connectable="0">
           <mxGeometry x="10" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="f0j1p0aatQxTC4rwtdJw-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;gradientDirection=east;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="f0j1p0aatQxTC4rwtdJw-1">
+        <mxCell id="f0j1p0aatQxTC4rwtdJw-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;gradientDirection=east;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="f0j1p0aatQxTC4rwtdJw-1" vertex="1">
           <mxGeometry y="10" width="210" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="f0j1p0aatQxTC4rwtdJw-3" value="&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Noto+sans+JP&quot; style=&quot;font-size: 10px&quot; face=&quot;Helvetica&quot;&gt;商業化研究&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;strokeColor=none;fontColor=#FFFFFF;fontSize=10;fillColor=#64BBE2;gradientColor=#529ABA;gradientDirection=east;" vertex="1" parent="f0j1p0aatQxTC4rwtdJw-1">
+        <mxCell id="f0j1p0aatQxTC4rwtdJw-3" value="&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Noto+sans+JP&quot; style=&quot;font-size: 10px&quot; face=&quot;Helvetica&quot;&gt;商業化研究&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;strokeColor=none;fontColor=#FFFFFF;fontSize=10;fillColor=#64BBE2;gradientColor=#529ABA;gradientDirection=east;" parent="f0j1p0aatQxTC4rwtdJw-1" vertex="1">
           <mxGeometry x="10" y="20" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f0j1p0aatQxTC4rwtdJw-4" value="&lt;div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Noto+sans+JP&quot; style=&quot;font-size: 10px&quot; face=&quot;Helvetica&quot;&gt;製造&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Noto+sans+JP&quot; style=&quot;font-size: 10px&quot; face=&quot;Helvetica&quot;&gt;（3D Curve）&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;strokeColor=none;fontColor=#FFFFFF;fontSize=10;fillColor=#64BBE2;gradientColor=#529ABA;gradientDirection=east;" vertex="1" parent="f0j1p0aatQxTC4rwtdJw-1">
+        <mxCell id="f0j1p0aatQxTC4rwtdJw-4" value="&lt;div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Noto+sans+JP&quot; style=&quot;font-size: 10px&quot; face=&quot;Helvetica&quot;&gt;製造&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Noto+sans+JP&quot; style=&quot;font-size: 10px&quot; face=&quot;Helvetica&quot;&gt;（3D Curve）&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;strokeColor=none;fontColor=#FFFFFF;fontSize=10;fillColor=#64BBE2;gradientColor=#529ABA;gradientDirection=east;" parent="f0j1p0aatQxTC4rwtdJw-1" vertex="1">
           <mxGeometry x="110" y="20" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f0j1p0aatQxTC4rwtdJw-5" value="Stent_Qualimed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=10;fontFamily=Montserrat;fontColor=#999999;fillColor=#ffffff;" vertex="1" parent="f0j1p0aatQxTC4rwtdJw-1">
+        <mxCell id="f0j1p0aatQxTC4rwtdJw-5" value="Stent_Qualimed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=10;fontFamily=Montserrat;fontColor=#999999;fillColor=#ffffff;" parent="f0j1p0aatQxTC4rwtdJw-1" vertex="1">
           <mxGeometry x="-10" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="f0j1p0aatQxTC4rwtdJw-7" value="" style="group" vertex="1" connectable="0" parent="TC1u3Ls2ZcS3L5okFnxG-1">
+        <mxCell id="f0j1p0aatQxTC4rwtdJw-7" value="" style="group" parent="TC1u3Ls2ZcS3L5okFnxG-1" vertex="1" connectable="0">
           <mxGeometry x="-400" y="170" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pJqoHFuwsOEvVSRi3Syu-50" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;gradientDirection=east;fillColor=#d5e8d4;strokeColor=#82b366;" parent="f0j1p0aatQxTC4rwtdJw-7" vertex="1">
@@ -789,7 +789,7 @@
         <mxCell id="pJqoHFuwsOEvVSRi3Syu-53" value="Veryan_Stent / DeliverySystem" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=10;fontFamily=Montserrat;fontColor=#999999;fillColor=#ffffff;" parent="f0j1p0aatQxTC4rwtdJw-7" vertex="1">
           <mxGeometry width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="f0j1p0aatQxTC4rwtdJw-10" value="" style="group" vertex="1" connectable="0" parent="TC1u3Ls2ZcS3L5okFnxG-1">
+        <mxCell id="f0j1p0aatQxTC4rwtdJw-10" value="" style="group" parent="TC1u3Ls2ZcS3L5okFnxG-1" vertex="1" connectable="0">
           <mxGeometry x="-400" y="240" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pJqoHFuwsOEvVSRi3Syu-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;gradientDirection=east;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="f0j1p0aatQxTC4rwtdJw-10" vertex="1">
@@ -804,7 +804,7 @@
         <mxCell id="pJqoHFuwsOEvVSRi3Syu-26" value="Stent_Qualimed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=10;fontFamily=Montserrat;fontColor=#999999;fillColor=#ffffff;" parent="f0j1p0aatQxTC4rwtdJw-10" vertex="1">
           <mxGeometry x="9.997248677248649" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="f0j1p0aatQxTC4rwtdJw-12" value="" style="group" vertex="1" connectable="0" parent="TC1u3Ls2ZcS3L5okFnxG-1">
+        <mxCell id="f0j1p0aatQxTC4rwtdJw-12" value="" style="group" parent="TC1u3Ls2ZcS3L5okFnxG-1" vertex="1" connectable="0">
           <mxGeometry x="135" y="170" width="215" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pJqoHFuwsOEvVSRi3Syu-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;gradientDirection=east;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="f0j1p0aatQxTC4rwtdJw-12" vertex="1">
@@ -819,7 +819,7 @@
         <mxCell id="pJqoHFuwsOEvVSRi3Syu-37" value="Coating_OMD-Harumi" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=10;fontFamily=Montserrat;fontColor=#999999;fillColor=#ffffff;" parent="f0j1p0aatQxTC4rwtdJw-12" vertex="1">
           <mxGeometry width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="f0j1p0aatQxTC4rwtdJw-13" value="" style="group" vertex="1" connectable="0" parent="TC1u3Ls2ZcS3L5okFnxG-1">
+        <mxCell id="f0j1p0aatQxTC4rwtdJw-13" value="" style="group" parent="TC1u3Ls2ZcS3L5okFnxG-1" vertex="1" connectable="0">
           <mxGeometry x="140" y="240" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pJqoHFuwsOEvVSRi3Syu-39" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;gradientDirection=east;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="f0j1p0aatQxTC4rwtdJw-13" vertex="1">
@@ -834,19 +834,19 @@
         <mxCell id="pJqoHFuwsOEvVSRi3Syu-42" value="Sterilization_JapanGas" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=10;fontFamily=Montserrat;fontColor=#999999;fillColor=#ffffff;" parent="f0j1p0aatQxTC4rwtdJw-13" vertex="1">
           <mxGeometry width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="f0j1p0aatQxTC4rwtdJw-14" value="" style="group" vertex="1" connectable="0" parent="TC1u3Ls2ZcS3L5okFnxG-1">
+        <mxCell id="f0j1p0aatQxTC4rwtdJw-14" value="" style="group" parent="TC1u3Ls2ZcS3L5okFnxG-1" vertex="1" connectable="0">
           <mxGeometry x="140" y="310" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="f0j1p0aatQxTC4rwtdJw-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;gradientDirection=east;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="f0j1p0aatQxTC4rwtdJw-14">
+        <mxCell id="f0j1p0aatQxTC4rwtdJw-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;gradientDirection=east;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="f0j1p0aatQxTC4rwtdJw-14" vertex="1">
           <mxGeometry y="10" width="210" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="f0j1p0aatQxTC4rwtdJw-16" value="条件検討" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;strokeColor=none;fontColor=#FFFFFF;fontSize=9;fillColor=#64BBE2;gradientColor=#529ABA;gradientDirection=east;" vertex="1" parent="f0j1p0aatQxTC4rwtdJw-14">
+        <mxCell id="f0j1p0aatQxTC4rwtdJw-16" value="条件検討" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;strokeColor=none;fontColor=#FFFFFF;fontSize=9;fillColor=#64BBE2;gradientColor=#529ABA;gradientDirection=east;" parent="f0j1p0aatQxTC4rwtdJw-14" vertex="1">
           <mxGeometry x="10" y="20" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f0j1p0aatQxTC4rwtdJw-17" value="適格性評価" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;strokeColor=none;fontColor=#FFFFFF;fontSize=10;fillColor=#64BBE2;gradientColor=#529ABA;gradientDirection=east;" vertex="1" parent="f0j1p0aatQxTC4rwtdJw-14">
+        <mxCell id="f0j1p0aatQxTC4rwtdJw-17" value="適格性評価" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;strokeColor=none;fontColor=#FFFFFF;fontSize=10;fillColor=#64BBE2;gradientColor=#529ABA;gradientDirection=east;" parent="f0j1p0aatQxTC4rwtdJw-14" vertex="1">
           <mxGeometry x="110" y="20" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f0j1p0aatQxTC4rwtdJw-18" value="TM_Tore" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=10;fontFamily=Montserrat;fontColor=#999999;fillColor=#ffffff;" vertex="1" parent="f0j1p0aatQxTC4rwtdJw-14">
+        <mxCell id="f0j1p0aatQxTC4rwtdJw-18" value="TM_Tore" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=10;fontFamily=Montserrat;fontColor=#999999;fillColor=#ffffff;" parent="f0j1p0aatQxTC4rwtdJw-14" vertex="1">
           <mxGeometry x="30" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
