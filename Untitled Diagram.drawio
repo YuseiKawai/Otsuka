@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-09-03T03:01:14.457Z" agent="5.0 (Windows)" etag="3l3qF5PM1J8QOlf7V7Nd" version="15.0.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-09-03T03:01:28.575Z" agent="5.0 (Windows)" etag="xAQZ--8qwnEhYxycIWS9" version="15.0.6" type="github" pages="2">
   <diagram id="nfT71_-IPyRZFanoregO" name="Page1">
     <mxGraphModel dx="1951" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="p9SXIOguWRCFXc3_EY1H-0" />
         <mxCell id="p9SXIOguWRCFXc3_EY1H-1" parent="p9SXIOguWRCFXc3_EY1H-0" />
-        <mxCell id="pGd8FTcYEc2tg5zaIXxq-0" value="&lt;p&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Montserrat&quot; face=&quot;Montserrat&quot;&gt;2006&lt;/font&gt;&lt;/p&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;direction=south;fillColor=#10739E;strokeColor=none;rounded=0;fontColor=#FFFFFF;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;opacity=80;" parent="p9SXIOguWRCFXc3_EY1H-1" vertex="1">
+        <mxCell id="pGd8FTcYEc2tg5zaIXxq-0" value="&lt;p&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Montserrat&quot;&gt;2006&lt;/font&gt;&lt;/p&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;direction=south;fillColor=#10739E;strokeColor=none;rounded=0;fontColor=#FFFFFF;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;opacity=80;" parent="p9SXIOguWRCFXc3_EY1H-1" vertex="1">
           <mxGeometry x="-780" y="150" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pGd8FTcYEc2tg5zaIXxq-1" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot; color=&quot;#10739E&quot;&gt;&lt;b&gt;大学&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;font size=&quot;1&quot;&gt;農業産業技術研究所　三中さんより大統計曼荼羅を受け取る&lt;strike&gt;（入信）&lt;/strike&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#DDDDDD;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;opacity=40;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" parent="p9SXIOguWRCFXc3_EY1H-1" vertex="1">
