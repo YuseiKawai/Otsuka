@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-03T03:01:28.575Z" agent="5.0 (Windows)" etag="xAQZ--8qwnEhYxycIWS9" version="15.0.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-09-03T03:11:17.973Z" agent="5.0 (Windows)" etag="TPPrZLWRqWzJRvA6LB0i" version="15.0.6" type="github" pages="2">
   <diagram id="nfT71_-IPyRZFanoregO" name="Page1">
-    <mxGraphModel dx="1951" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2172" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="p9SXIOguWRCFXc3_EY1H-0" />
         <mxCell id="p9SXIOguWRCFXc3_EY1H-1" parent="p9SXIOguWRCFXc3_EY1H-0" />
@@ -48,7 +48,7 @@
         <mxCell id="9UxpXEo3Pc5CRail3H-m-5" value="スキル" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;fontSize=10;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontColor=#808080;" vertex="1" parent="9UxpXEo3Pc5CRail3H-m-1">
           <mxGeometry x="90" y="440" width="50" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="j8T_HdrlfE7mMLbsaLNT-0" value="* SQL文法を含むデータベース操作の技術&#xa;* クラウドの知識&#xa;* AutoMLの知識&#xa;* データ前処理・特徴量エンジニアリングの技術" style="rounded=0;whiteSpace=wrap;opacity=80;fontColor=#666666;spacing=2;strokeWidth=1;strokeColor=#999999;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;align=left;spacingLeft=3;spacingRight=3;fontSize=10;" vertex="1" parent="9UxpXEo3Pc5CRail3H-m-1">
+        <mxCell id="j8T_HdrlfE7mMLbsaLNT-0" value="* SQL文法を含むデータベース操作の技術&#xa;&#xa;* クラウドの知識&#xa;&#xa;* AutoMLの知識  &#xa;&#xa;* データ前処理・特徴量エンジニアリング" style="rounded=0;whiteSpace=wrap;opacity=80;fontColor=#666666;spacing=2;strokeWidth=1;strokeColor=#999999;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;align=left;spacingLeft=3;spacingRight=3;fontSize=10;" vertex="1" parent="9UxpXEo3Pc5CRail3H-m-1">
           <mxGeometry x="150" y="440" width="210" height="120" as="geometry" />
         </mxCell>
         <mxCell id="j8T_HdrlfE7mMLbsaLNT-1" value="機械学習エンジニア" style="rounded=0;whiteSpace=wrap;html=1;opacity=80;fontColor=#666666;spacing=2;strokeWidth=1;strokeColor=#999999;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" vertex="1" parent="9UxpXEo3Pc5CRail3H-m-1">
@@ -63,10 +63,10 @@
         <mxCell id="j8T_HdrlfE7mMLbsaLNT-5" value="* データ利活用業務のために、データ基盤・データ活用体制を構築＆整備する&#xa;&#xa;* データ基盤のオーナーシップを持つことが多く、付随する業務として分析向けデータ抽出やダッシュボード構築を行う&#xa;&#xa;DBエンジニアの延長。" style="rounded=0;whiteSpace=wrap;opacity=80;fontColor=#666666;spacing=2;strokeWidth=1;strokeColor=#999999;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;align=left;fontSize=11;spacingLeft=3;spacingRight=3;fontStyle=0" vertex="1" parent="9UxpXEo3Pc5CRail3H-m-1">
           <mxGeometry x="590" y="270" width="210" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="j8T_HdrlfE7mMLbsaLNT-6" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=80;fontColor=#666666;spacing=2;strokeWidth=1;strokeColor=#999999;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;align=left;spacingLeft=3;spacingRight=3;" vertex="1" parent="9UxpXEo3Pc5CRail3H-m-1">
+        <mxCell id="j8T_HdrlfE7mMLbsaLNT-6" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;* エンジニアとしてのスキル&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;* 機械学習の知識&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;* NN/DLの知識&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;* &quot;Kaggleで勝つ&quot;の知識&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;opacity=80;fontColor=#666666;spacing=2;strokeWidth=1;strokeColor=#999999;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;align=left;spacingLeft=3;spacingRight=3;fontSize=10;" vertex="1" parent="9UxpXEo3Pc5CRail3H-m-1">
           <mxGeometry x="370" y="440" width="210" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="j8T_HdrlfE7mMLbsaLNT-7" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=80;fontColor=#666666;spacing=2;strokeWidth=1;strokeColor=#999999;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;align=left;spacingLeft=3;spacingRight=3;" vertex="1" parent="9UxpXEo3Pc5CRail3H-m-1">
+        <mxCell id="j8T_HdrlfE7mMLbsaLNT-7" value="* 一般的なDB操作&#xa;&#xa;* DWH / データマートの構築・整備スキル&#xa;&#xa;*データ分析（統計分析・機械学習問わず）の目的に応じてDBを操作＆抽出&#xa;&#xa;* データ基盤に付随する分析業務" style="rounded=0;whiteSpace=wrap;opacity=80;fontColor=#666666;spacing=2;strokeWidth=1;strokeColor=#999999;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;align=left;spacingLeft=3;spacingRight=3;fontSize=10;" vertex="1" parent="9UxpXEo3Pc5CRail3H-m-1">
           <mxGeometry x="590" y="440" width="210" height="120" as="geometry" />
         </mxCell>
       </root>
