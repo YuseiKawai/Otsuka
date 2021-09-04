@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-03T08:45:23.249Z" agent="5.0 (Windows)" etag="6lTXjJVEnEzT1FneXIYu" version="15.0.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-09-04T11:48:17.943Z" agent="5.0 (X11)" etag="MCooXSmEQ7QAqSh9P2Oq" version="14.8.6" type="github" pages="3">
   <diagram id="nfT71_-IPyRZFanoregO" name="Page1">
-    <mxGraphModel dx="2172" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2220" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="p9SXIOguWRCFXc3_EY1H-0" />
         <mxCell id="p9SXIOguWRCFXc3_EY1H-1" parent="p9SXIOguWRCFXc3_EY1H-0" />
@@ -32,42 +32,62 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hUq8l0zJN-bttdY-le0T" name="Page-2">
-    <mxGraphModel dx="993" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1142" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="9UxpXEo3Pc5CRail3H-m-0" />
         <mxCell id="9UxpXEo3Pc5CRail3H-m-1" parent="9UxpXEo3Pc5CRail3H-m-0" />
-        <mxCell id="9UxpXEo3Pc5CRail3H-m-2" value="データサイエンティスト" style="rounded=0;whiteSpace=wrap;html=1;opacity=80;fontColor=#666666;spacing=2;strokeWidth=1;strokeColor=#999999;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" vertex="1" parent="9UxpXEo3Pc5CRail3H-m-1">
+        <mxCell id="9UxpXEo3Pc5CRail3H-m-2" value="データサイエンティスト" style="rounded=0;whiteSpace=wrap;html=1;opacity=80;fontColor=#666666;spacing=2;strokeWidth=1;strokeColor=#999999;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;sketch=1;" parent="9UxpXEo3Pc5CRail3H-m-1" vertex="1">
           <mxGeometry x="150" y="220" width="210" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9UxpXEo3Pc5CRail3H-m-3" value="* 統計分析で「意思決定を支援する」&lt;br&gt;&lt;br&gt;* 必要に応じて機械学習で「自動化の推進」も進める&lt;br&gt;&lt;br&gt;* 必要に応じてデータ基盤・データ活用体制の構築も担う&lt;br&gt;&lt;br&gt;&lt;b&gt;データに関するオールラウンダー的な立ち位置。データアナリストの延長。&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;opacity=80;fontColor=#666666;spacing=2;strokeWidth=1;strokeColor=#999999;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;align=left;fontSize=11;spacingLeft=3;spacingRight=3;html=1;" vertex="1" parent="9UxpXEo3Pc5CRail3H-m-1">
+        <mxCell id="9UxpXEo3Pc5CRail3H-m-3" value="* 統計分析で「意思決定を支援する」&lt;br&gt;&lt;br&gt;* 必要に応じて機械学習で「自動化の推進」も進める&lt;br&gt;&lt;br&gt;* 必要に応じてデータ基盤・データ活用体制の構築も担う&lt;br&gt;&lt;br&gt;&lt;b&gt;データに関するオールラウンダー的な立ち位置。データアナリストの延長。&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;opacity=80;fontColor=#666666;spacing=2;strokeWidth=1;strokeColor=#999999;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;align=left;fontSize=11;spacingLeft=3;spacingRight=3;html=1;sketch=1;" parent="9UxpXEo3Pc5CRail3H-m-1" vertex="1">
           <mxGeometry x="150" y="270" width="210" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="9UxpXEo3Pc5CRail3H-m-4" value="定義" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;fontSize=10;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontColor=#808080;" vertex="1" parent="9UxpXEo3Pc5CRail3H-m-1">
+        <mxCell id="9UxpXEo3Pc5CRail3H-m-4" value="定義" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;fontSize=10;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontColor=#808080;sketch=1;" parent="9UxpXEo3Pc5CRail3H-m-1" vertex="1">
           <mxGeometry x="90" y="270" width="50" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="9UxpXEo3Pc5CRail3H-m-5" value="スキル" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;fontSize=10;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontColor=#808080;" vertex="1" parent="9UxpXEo3Pc5CRail3H-m-1">
+        <mxCell id="9UxpXEo3Pc5CRail3H-m-5" value="スキル" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;fontSize=10;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontColor=#808080;sketch=1;" parent="9UxpXEo3Pc5CRail3H-m-1" vertex="1">
           <mxGeometry x="90" y="440" width="50" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="j8T_HdrlfE7mMLbsaLNT-0" value="* SQL文法を含むデータベース操作の技術&#xa;&#xa;* クラウドの知識&#xa;&#xa;* AutoMLの知識  &#xa;&#xa;* データ前処理・特徴量エンジニアリング" style="rounded=0;whiteSpace=wrap;opacity=80;fontColor=#666666;spacing=2;strokeWidth=1;strokeColor=#999999;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;align=left;spacingLeft=3;spacingRight=3;fontSize=10;" vertex="1" parent="9UxpXEo3Pc5CRail3H-m-1">
+        <mxCell id="j8T_HdrlfE7mMLbsaLNT-0" value="* SQL文法を含むデータベース操作の技術&#xa;&#xa;* クラウドの知識&#xa;&#xa;* AutoMLの知識  &#xa;&#xa;* データ前処理・特徴量エンジニアリング" style="rounded=0;whiteSpace=wrap;opacity=80;fontColor=#666666;spacing=2;strokeWidth=1;strokeColor=#999999;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;align=left;spacingLeft=3;spacingRight=3;fontSize=10;sketch=1;" parent="9UxpXEo3Pc5CRail3H-m-1" vertex="1">
           <mxGeometry x="150" y="440" width="210" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="j8T_HdrlfE7mMLbsaLNT-1" value="機械学習エンジニア" style="rounded=0;whiteSpace=wrap;html=1;opacity=80;fontColor=#666666;spacing=2;strokeWidth=1;strokeColor=#999999;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" vertex="1" parent="9UxpXEo3Pc5CRail3H-m-1">
+        <mxCell id="j8T_HdrlfE7mMLbsaLNT-1" value="機械学習エンジニア" style="rounded=0;whiteSpace=wrap;html=1;opacity=80;fontColor=#666666;spacing=2;strokeWidth=1;strokeColor=#999999;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;sketch=1;" parent="9UxpXEo3Pc5CRail3H-m-1" vertex="1">
           <mxGeometry x="370" y="220" width="210" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="j8T_HdrlfE7mMLbsaLNT-3" value="&lt;div style=&quot;font-size: 11px&quot;&gt;* 基本的に機械学習を各種システムに組み入れて開発する&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;br style=&quot;font-size: 11px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;* 超速で進歩する領域であるため、必要に応じて研究活動も行う&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;br style=&quot;font-size: 11px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;ソフトウェアエンジニアの延長。&lt;/b&gt;&lt;br style=&quot;font-size: 11px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;opacity=80;fontColor=#666666;spacing=2;strokeWidth=1;strokeColor=#999999;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;align=left;fontSize=11;spacingLeft=3;spacingRight=3;html=1;" vertex="1" parent="9UxpXEo3Pc5CRail3H-m-1">
+        <mxCell id="j8T_HdrlfE7mMLbsaLNT-3" value="&lt;div style=&quot;font-size: 11px&quot;&gt;* 基本的に機械学習を各種システムに組み入れて開発する&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;br style=&quot;font-size: 11px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;* 超速で進歩する領域であるため、必要に応じて研究活動も行う&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;br style=&quot;font-size: 11px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;ソフトウェアエンジニアの延長。&lt;/b&gt;&lt;br style=&quot;font-size: 11px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;opacity=80;fontColor=#666666;spacing=2;strokeWidth=1;strokeColor=#999999;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;align=left;fontSize=11;spacingLeft=3;spacingRight=3;html=1;sketch=1;" parent="9UxpXEo3Pc5CRail3H-m-1" vertex="1">
           <mxGeometry x="370" y="270" width="210" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="j8T_HdrlfE7mMLbsaLNT-4" value="データアーキテクト" style="rounded=0;whiteSpace=wrap;html=1;opacity=80;fontColor=#666666;spacing=2;strokeWidth=1;strokeColor=#999999;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" vertex="1" parent="9UxpXEo3Pc5CRail3H-m-1">
+        <mxCell id="j8T_HdrlfE7mMLbsaLNT-4" value="データアーキテクト" style="rounded=0;whiteSpace=wrap;html=1;opacity=80;fontColor=#666666;spacing=2;strokeWidth=1;strokeColor=#999999;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;sketch=1;" parent="9UxpXEo3Pc5CRail3H-m-1" vertex="1">
           <mxGeometry x="590" y="220" width="210" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="j8T_HdrlfE7mMLbsaLNT-5" value="* データ利活用業務のために、データ基盤・データ活用体制を構築＆整備する&#xa;&#xa;* データ基盤のオーナーシップを持つことが多く、付随する業務として分析向けデータ抽出やダッシュボード構築を行う&#xa;&#xa;DBエンジニアの延長。" style="rounded=0;whiteSpace=wrap;opacity=80;fontColor=#666666;spacing=2;strokeWidth=1;strokeColor=#999999;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;align=left;fontSize=11;spacingLeft=3;spacingRight=3;fontStyle=0" vertex="1" parent="9UxpXEo3Pc5CRail3H-m-1">
+        <mxCell id="j8T_HdrlfE7mMLbsaLNT-5" value="* データ利活用業務のために、データ基盤・データ活用体制を構築＆整備する&#xa;&#xa;* データ基盤のオーナーシップを持つことが多く、付随する業務として分析向けデータ抽出やダッシュボード構築を行う&#xa;&#xa;DBエンジニアの延長。" style="rounded=0;whiteSpace=wrap;opacity=80;fontColor=#666666;spacing=2;strokeWidth=1;strokeColor=#999999;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;align=left;fontSize=11;spacingLeft=3;spacingRight=3;fontStyle=0;shadow=0;glass=0;sketch=1;" parent="9UxpXEo3Pc5CRail3H-m-1" vertex="1">
           <mxGeometry x="590" y="270" width="210" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="j8T_HdrlfE7mMLbsaLNT-6" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;* エンジニアとしてのスキル&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;* 機械学習の知識&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;* NN/DLの知識&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;* &quot;Kaggleで勝つ&quot;の知識&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;opacity=80;fontColor=#666666;spacing=2;strokeWidth=1;strokeColor=#999999;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;align=left;spacingLeft=3;spacingRight=3;fontSize=10;" vertex="1" parent="9UxpXEo3Pc5CRail3H-m-1">
+        <mxCell id="j8T_HdrlfE7mMLbsaLNT-6" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;* エンジニアとしてのスキル&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;* 機械学習の知識&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;* NN/DLの知識&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;* &quot;Kaggleで勝つ&quot;の知識&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;opacity=80;fontColor=#666666;spacing=2;strokeWidth=1;strokeColor=#999999;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;align=left;spacingLeft=3;spacingRight=3;fontSize=10;sketch=1;" parent="9UxpXEo3Pc5CRail3H-m-1" vertex="1">
           <mxGeometry x="370" y="440" width="210" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="j8T_HdrlfE7mMLbsaLNT-7" value="* 一般的なDB操作&#xa;&#xa;* DWH / データマートの構築・整備スキル&#xa;&#xa;*データ分析（統計分析・機械学習問わず）の目的に応じてDBを操作＆抽出&#xa;&#xa;* データ基盤に付随する分析業務" style="rounded=0;whiteSpace=wrap;opacity=80;fontColor=#666666;spacing=2;strokeWidth=1;strokeColor=#999999;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;align=left;spacingLeft=3;spacingRight=3;fontSize=10;" vertex="1" parent="9UxpXEo3Pc5CRail3H-m-1">
+        <mxCell id="j8T_HdrlfE7mMLbsaLNT-7" value="* 一般的なDB操作&#xa;&#xa;* DWH / データマートの構築・整備スキル&#xa;&#xa;*データ分析（統計分析・機械学習問わず）の目的に応じてDBを操作＆抽出&#xa;&#xa;* データ基盤に付随する分析業務" style="rounded=0;whiteSpace=wrap;opacity=80;fontColor=#666666;spacing=2;strokeWidth=1;strokeColor=#999999;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;align=left;spacingLeft=3;spacingRight=3;fontSize=10;sketch=1;" parent="9UxpXEo3Pc5CRail3H-m-1" vertex="1">
           <mxGeometry x="590" y="440" width="210" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="yh9RSn8FNRR-F8zXOmGP" name="Page-3">
+    <mxGraphModel dx="1370" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="TAIWlikkCOqCa6km391F-0" />
+        <mxCell id="TAIWlikkCOqCa6km391F-1" parent="TAIWlikkCOqCa6km391F-0" />
+        <mxCell id="TAIWlikkCOqCa6km391F-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=http://www.metal-am.com/wp-content/uploads/sites/4/2020/12/fig-01-copy-1024x630.jpg;" vertex="1" parent="TAIWlikkCOqCa6km391F-1">
+          <mxGeometry x="150" y="170" width="763.75" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="airgw70l3UCqZkjlE6ua-10" value="大量のデータを学習し、特定のタスクを遂行する関数を自動的に構築する技術" style="whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fontColor=#808080;fillColor=#ffffff;align=left;fontFamily=Helvetica;fontSize=13;strokeColor=#808080;spacingLeft=5;spacingRight=5;opacity=90;" vertex="1" parent="TAIWlikkCOqCa6km391F-1">
+          <mxGeometry x="401.88" y="530" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="airgw70l3UCqZkjlE6ua-12" value="機械学習の1手法。ニューラルネットワークを多層に結合して表現・学習能力を高めた" style="whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fontColor=#808080;fillColor=#ffffff;align=left;fontFamily=Helvetica;fontSize=13;strokeColor=#808080;spacingLeft=5;spacingRight=5;opacity=90;html=1;" vertex="1" parent="TAIWlikkCOqCa6km391F-1">
+          <mxGeometry x="661.88" y="490" width="248.12" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="airgw70l3UCqZkjlE6ua-13" value="特化型AI / 汎用型AI、強いAI / 弱いAI" style="whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fontColor=#808080;fillColor=#ffffff;align=left;fontFamily=Helvetica;fontSize=13;strokeColor=#808080;spacingLeft=5;spacingRight=5;opacity=90;" vertex="1" parent="TAIWlikkCOqCa6km391F-1">
+          <mxGeometry x="150" y="570" width="230" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
