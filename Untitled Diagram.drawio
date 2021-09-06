@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-06T08:18:48.557Z" agent="5.0 (Windows)" etag="6obrBpt4MUpddjmFaQdC" version="15.0.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-09-06T08:48:20.786Z" agent="5.0 (Windows)" etag="rZy1e6N7dP__e4aohmeK" version="15.0.6" type="github" pages="5">
   <diagram id="nfT71_-IPyRZFanoregO" name="Page1">
     <mxGraphModel dx="1572" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -164,36 +164,39 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rI5xuZV8ipGQuJ_-42ox" name="Page-5">
-    <mxGraphModel dx="859" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1475" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ATxQNK5uhgOzWbLKc6zC-0" />
         <mxCell id="ATxQNK5uhgOzWbLKc6zC-1" parent="ATxQNK5uhgOzWbLKc6zC-0" />
-        <mxCell id="ATxQNK5uhgOzWbLKc6zC-3" value="探索的データ分析" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontFamily=Noto Sans JP;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BJP;fontSize=19;strokeColor=#999999;fillColor=#E6E6E6;" vertex="1" parent="ATxQNK5uhgOzWbLKc6zC-1">
-          <mxGeometry x="100" y="160" width="230" height="50" as="geometry" />
+        <mxCell id="ATxQNK5uhgOzWbLKc6zC-12" value="" style="group" vertex="1" connectable="0" parent="ATxQNK5uhgOzWbLKc6zC-1">
+          <mxGeometry x="100" y="160" width="230" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="ATxQNK5uhgOzWbLKc6zC-4" value="特徴量エンジニアリング" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontFamily=Noto Sans JP;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BJP;fontSize=19;strokeColor=#999999;fillColor=#E6E6E6;" vertex="1" parent="ATxQNK5uhgOzWbLKc6zC-1">
-          <mxGeometry x="100" y="260" width="230" height="50" as="geometry" />
+        <mxCell id="ATxQNK5uhgOzWbLKc6zC-3" value="探索的データ分析" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontFamily=Noto Sans JP;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BJP;fontSize=19;strokeColor=#999999;fillColor=#E6E6E6;" vertex="1" parent="ATxQNK5uhgOzWbLKc6zC-12">
+          <mxGeometry width="230" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ATxQNK5uhgOzWbLKc6zC-5" value="" style="triangle;whiteSpace=wrap;html=1;sketch=0;fontFamily=Noto Sans JP;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BJP;fontSize=19;rotation=0;direction=south;strokeColor=none;fillColor=#10739E;" vertex="1" parent="ATxQNK5uhgOzWbLKc6zC-1">
-          <mxGeometry x="195" y="230" width="40" height="15" as="geometry" />
+        <mxCell id="ATxQNK5uhgOzWbLKc6zC-4" value="特徴量エンジニアリング" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontFamily=Noto Sans JP;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BJP;fontSize=19;strokeColor=#999999;fillColor=#E6E6E6;" vertex="1" parent="ATxQNK5uhgOzWbLKc6zC-12">
+          <mxGeometry y="100" width="230" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ATxQNK5uhgOzWbLKc6zC-6" value="モデルの決定/実行/比較" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontFamily=Noto Sans JP;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BJP;fontSize=19;strokeColor=#999999;fillColor=#E6E6E6;" vertex="1" parent="ATxQNK5uhgOzWbLKc6zC-1">
-          <mxGeometry x="100" y="360" width="230" height="50" as="geometry" />
+        <mxCell id="ATxQNK5uhgOzWbLKc6zC-5" value="" style="triangle;whiteSpace=wrap;html=1;sketch=0;fontFamily=Noto Sans JP;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BJP;fontSize=19;rotation=0;direction=south;strokeColor=none;fillColor=#10739E;" vertex="1" parent="ATxQNK5uhgOzWbLKc6zC-12">
+          <mxGeometry x="95" y="70" width="40" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="ATxQNK5uhgOzWbLKc6zC-7" value="" style="triangle;whiteSpace=wrap;html=1;sketch=0;fontFamily=Noto Sans JP;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BJP;fontSize=19;rotation=0;direction=south;strokeColor=none;fillColor=#10739E;" vertex="1" parent="ATxQNK5uhgOzWbLKc6zC-1">
-          <mxGeometry x="195" y="330" width="40" height="15" as="geometry" />
+        <mxCell id="ATxQNK5uhgOzWbLKc6zC-6" value="モデルの決定/実行/比較" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontFamily=Noto Sans JP;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BJP;fontSize=19;strokeColor=#999999;fillColor=#E6E6E6;" vertex="1" parent="ATxQNK5uhgOzWbLKc6zC-12">
+          <mxGeometry y="200" width="230" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ATxQNK5uhgOzWbLKc6zC-8" value="パラメーター検索" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontFamily=Noto Sans JP;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BJP;fontSize=19;strokeColor=#999999;fillColor=#E6E6E6;" vertex="1" parent="ATxQNK5uhgOzWbLKc6zC-1">
-          <mxGeometry x="100" y="460" width="230" height="50" as="geometry" />
+        <mxCell id="ATxQNK5uhgOzWbLKc6zC-7" value="" style="triangle;whiteSpace=wrap;html=1;sketch=0;fontFamily=Noto Sans JP;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BJP;fontSize=19;rotation=0;direction=south;strokeColor=none;fillColor=#10739E;" vertex="1" parent="ATxQNK5uhgOzWbLKc6zC-12">
+          <mxGeometry x="95" y="170" width="40" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="ATxQNK5uhgOzWbLKc6zC-9" value="" style="triangle;whiteSpace=wrap;html=1;sketch=0;fontFamily=Noto Sans JP;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BJP;fontSize=19;rotation=0;direction=south;strokeColor=none;fillColor=#10739E;" vertex="1" parent="ATxQNK5uhgOzWbLKc6zC-1">
-          <mxGeometry x="195" y="430" width="40" height="15" as="geometry" />
+        <mxCell id="ATxQNK5uhgOzWbLKc6zC-8" value="パラメーター検索" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontFamily=Noto Sans JP;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BJP;fontSize=19;strokeColor=#999999;fillColor=#E6E6E6;" vertex="1" parent="ATxQNK5uhgOzWbLKc6zC-12">
+          <mxGeometry y="300" width="230" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ATxQNK5uhgOzWbLKc6zC-10" value="汎用性強化/モデル改善" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontFamily=Noto Sans JP;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BJP;fontSize=19;strokeColor=#999999;fillColor=#E6E6E6;" vertex="1" parent="ATxQNK5uhgOzWbLKc6zC-1">
-          <mxGeometry x="100" y="560" width="230" height="50" as="geometry" />
+        <mxCell id="ATxQNK5uhgOzWbLKc6zC-9" value="" style="triangle;whiteSpace=wrap;html=1;sketch=0;fontFamily=Noto Sans JP;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BJP;fontSize=19;rotation=0;direction=south;strokeColor=none;fillColor=#10739E;" vertex="1" parent="ATxQNK5uhgOzWbLKc6zC-12">
+          <mxGeometry x="95" y="270" width="40" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="ATxQNK5uhgOzWbLKc6zC-11" value="" style="triangle;whiteSpace=wrap;html=1;sketch=0;fontFamily=Noto Sans JP;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BJP;fontSize=19;rotation=0;direction=south;strokeColor=none;fillColor=#10739E;" vertex="1" parent="ATxQNK5uhgOzWbLKc6zC-1">
-          <mxGeometry x="195" y="530" width="40" height="15" as="geometry" />
+        <mxCell id="ATxQNK5uhgOzWbLKc6zC-10" value="汎用性強化/モデル改善" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontFamily=Noto Sans JP;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BJP;fontSize=19;strokeColor=#999999;fillColor=#E6E6E6;" vertex="1" parent="ATxQNK5uhgOzWbLKc6zC-12">
+          <mxGeometry y="400" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ATxQNK5uhgOzWbLKc6zC-11" value="" style="triangle;whiteSpace=wrap;html=1;sketch=0;fontFamily=Noto Sans JP;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BJP;fontSize=19;rotation=0;direction=south;strokeColor=none;fillColor=#10739E;" vertex="1" parent="ATxQNK5uhgOzWbLKc6zC-12">
+          <mxGeometry x="95" y="370" width="40" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
