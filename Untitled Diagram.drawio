@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-06T06:05:40.263Z" agent="5.0 (Windows)" etag="IkYUhR_v-59fgaDSnXBC" version="15.0.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-09-06T08:18:48.557Z" agent="5.0 (Windows)" etag="6obrBpt4MUpddjmFaQdC" version="15.0.6" type="github" pages="5">
   <diagram id="nfT71_-IPyRZFanoregO" name="Page1">
     <mxGraphModel dx="1572" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -73,27 +73,27 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yh9RSn8FNRR-F8zXOmGP" name="Page-3">
-    <mxGraphModel dx="1806" dy="1092" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="893" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="TAIWlikkCOqCa6km391F-0" />
         <mxCell id="TAIWlikkCOqCa6km391F-1" parent="TAIWlikkCOqCa6km391F-0" />
         <mxCell id="TAIWlikkCOqCa6km391F-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=http://www.metal-am.com/wp-content/uploads/sites/4/2020/12/fig-01-copy-1024x630.jpg;" parent="TAIWlikkCOqCa6km391F-1" vertex="1">
           <mxGeometry x="150" y="170" width="763.75" height="470" as="geometry" />
         </mxCell>
-        <mxCell id="airgw70l3UCqZkjlE6ua-10" value="大量のデータを学習し、特定のタスクを遂行する関数を自動的に構築する技術" style="whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fontColor=#808080;fillColor=#ffffff;align=left;fontFamily=Helvetica;fontSize=13;strokeColor=#808080;spacingLeft=5;spacingRight=5;opacity=90;" parent="TAIWlikkCOqCa6km391F-1" vertex="1">
+        <mxCell id="airgw70l3UCqZkjlE6ua-10" value="大量のデータを学習し、特定のタスクを遂行する関数を自動的に構築する技術" style="whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fontColor=#808080;fillColor=#ffffff;align=left;fontFamily=Noto Sans JP;fontSize=13;strokeColor=#808080;spacingLeft=5;spacingRight=5;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BJP;" parent="TAIWlikkCOqCa6km391F-1" vertex="1">
           <mxGeometry x="401.88" y="530" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="airgw70l3UCqZkjlE6ua-12" value="機械学習の1手法。ニューラルネットワークを多層に結合して表現・学習能力を高めた" style="whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fontColor=#808080;fillColor=#ffffff;align=left;fontFamily=Helvetica;fontSize=13;strokeColor=#808080;spacingLeft=5;spacingRight=5;opacity=90;html=1;" parent="TAIWlikkCOqCa6km391F-1" vertex="1">
+        <mxCell id="airgw70l3UCqZkjlE6ua-12" value="機械学習の1手法。ニューラルネットワークを多層に結合して表現・学習能力を高めた" style="whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fontColor=#808080;fillColor=#ffffff;align=left;fontFamily=Noto Sans JP;fontSize=13;strokeColor=#808080;spacingLeft=5;spacingRight=5;html=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BJP;" parent="TAIWlikkCOqCa6km391F-1" vertex="1">
           <mxGeometry x="661.88" y="490" width="248.12" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="airgw70l3UCqZkjlE6ua-13" value="特化型AI / 汎用型AI、強いAI / 弱いAI" style="whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fontColor=#808080;fillColor=#ffffff;align=left;fontFamily=Helvetica;fontSize=13;strokeColor=#808080;spacingLeft=5;spacingRight=5;opacity=90;" parent="TAIWlikkCOqCa6km391F-1" vertex="1">
+        <mxCell id="airgw70l3UCqZkjlE6ua-13" value="特化型AI / 汎用型AI、強いAI / 弱いAI" style="whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fontColor=#808080;fillColor=#ffffff;align=left;fontFamily=Noto Sans JP;fontSize=13;strokeColor=#808080;spacingLeft=5;spacingRight=5;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BJP;" parent="TAIWlikkCOqCa6km391F-1" vertex="1">
           <mxGeometry x="150" y="570" width="230" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="zrfpJyeRR_nyD6yEaahl" name="Page-4">
-    <mxGraphModel dx="1109" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="893" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="HDczlblUwx7JTKvTxsxV-0" />
         <mxCell id="HDczlblUwx7JTKvTxsxV-1" parent="HDczlblUwx7JTKvTxsxV-0" />
@@ -159,6 +159,41 @@
         </mxCell>
         <mxCell id="HDczlblUwx7JTKvTxsxV-30" value="伝達" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;" vertex="1" parent="HDczlblUwx7JTKvTxsxV-1">
           <mxGeometry x="719" y="549" width="50" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="rI5xuZV8ipGQuJ_-42ox" name="Page-5">
+    <mxGraphModel dx="859" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="ATxQNK5uhgOzWbLKc6zC-0" />
+        <mxCell id="ATxQNK5uhgOzWbLKc6zC-1" parent="ATxQNK5uhgOzWbLKc6zC-0" />
+        <mxCell id="ATxQNK5uhgOzWbLKc6zC-3" value="探索的データ分析" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontFamily=Noto Sans JP;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BJP;fontSize=19;strokeColor=#999999;fillColor=#E6E6E6;" vertex="1" parent="ATxQNK5uhgOzWbLKc6zC-1">
+          <mxGeometry x="100" y="160" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ATxQNK5uhgOzWbLKc6zC-4" value="特徴量エンジニアリング" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontFamily=Noto Sans JP;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BJP;fontSize=19;strokeColor=#999999;fillColor=#E6E6E6;" vertex="1" parent="ATxQNK5uhgOzWbLKc6zC-1">
+          <mxGeometry x="100" y="260" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ATxQNK5uhgOzWbLKc6zC-5" value="" style="triangle;whiteSpace=wrap;html=1;sketch=0;fontFamily=Noto Sans JP;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BJP;fontSize=19;rotation=0;direction=south;strokeColor=none;fillColor=#10739E;" vertex="1" parent="ATxQNK5uhgOzWbLKc6zC-1">
+          <mxGeometry x="195" y="230" width="40" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="ATxQNK5uhgOzWbLKc6zC-6" value="モデルの決定/実行/比較" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontFamily=Noto Sans JP;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BJP;fontSize=19;strokeColor=#999999;fillColor=#E6E6E6;" vertex="1" parent="ATxQNK5uhgOzWbLKc6zC-1">
+          <mxGeometry x="100" y="360" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ATxQNK5uhgOzWbLKc6zC-7" value="" style="triangle;whiteSpace=wrap;html=1;sketch=0;fontFamily=Noto Sans JP;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BJP;fontSize=19;rotation=0;direction=south;strokeColor=none;fillColor=#10739E;" vertex="1" parent="ATxQNK5uhgOzWbLKc6zC-1">
+          <mxGeometry x="195" y="330" width="40" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="ATxQNK5uhgOzWbLKc6zC-8" value="パラメーター検索" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontFamily=Noto Sans JP;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BJP;fontSize=19;strokeColor=#999999;fillColor=#E6E6E6;" vertex="1" parent="ATxQNK5uhgOzWbLKc6zC-1">
+          <mxGeometry x="100" y="460" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ATxQNK5uhgOzWbLKc6zC-9" value="" style="triangle;whiteSpace=wrap;html=1;sketch=0;fontFamily=Noto Sans JP;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BJP;fontSize=19;rotation=0;direction=south;strokeColor=none;fillColor=#10739E;" vertex="1" parent="ATxQNK5uhgOzWbLKc6zC-1">
+          <mxGeometry x="195" y="430" width="40" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="ATxQNK5uhgOzWbLKc6zC-10" value="汎用性強化/モデル改善" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontFamily=Noto Sans JP;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BJP;fontSize=19;strokeColor=#999999;fillColor=#E6E6E6;" vertex="1" parent="ATxQNK5uhgOzWbLKc6zC-1">
+          <mxGeometry x="100" y="560" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ATxQNK5uhgOzWbLKc6zC-11" value="" style="triangle;whiteSpace=wrap;html=1;sketch=0;fontFamily=Noto Sans JP;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BJP;fontSize=19;rotation=0;direction=south;strokeColor=none;fillColor=#10739E;" vertex="1" parent="ATxQNK5uhgOzWbLKc6zC-1">
+          <mxGeometry x="195" y="530" width="40" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
