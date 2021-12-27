@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-27T04:03:50.858Z" agent="5.0 (Windows)" etag="20ylFWRRAjEg3yn1QBo3" version="16.0.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-12-27T06:27:28.915Z" agent="5.0 (Windows)" etag="IbYcr13dQDTDM-9EZmaf" version="16.0.3" type="github" pages="6">
   <diagram name="PDUAT_scnerioA" id="bi1Jk6Yno6CnkrtcfjvV">
     <mxGraphModel dx="1998" dy="1080" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -594,7 +594,7 @@
         <mxCell id="3UWcqDKJkAsrDeEhe3fB-23" value="End" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=15;opacity=40;gradientDirection=east;strokeColor=none;fillColor=#B2C9AB;fontColor=#46495D;sketch=1;" parent="3UWcqDKJkAsrDeEhe3fB-1" vertex="1">
           <mxGeometry x="180" y="650" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3UWcqDKJkAsrDeEhe3fB-26" value="&lt;div&gt;検索文書：&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;＜文書名＞&lt;br&gt;&lt;/div&gt;&lt;div&gt;* 管理文書発効依頼書&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;＜ステータス＞&lt;/div&gt;&lt;div&gt;* 発行済&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;＜文書形式＞&lt;br&gt;&lt;/div&gt;&lt;div&gt;* カスタムテンプレート&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;＜作成日＞&lt;/div&gt;&lt;div&gt;* 2021年10月&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;verticalAlign=top;align=left;spacingLeft=5;" parent="3UWcqDKJkAsrDeEhe3fB-1" vertex="1">
+        <mxCell id="3UWcqDKJkAsrDeEhe3fB-26" value="&lt;div&gt;検索文書：&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;＜文書名＞&lt;br&gt;&lt;/div&gt;&lt;div&gt;* 管理文書発行依頼書&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;＜ステータス＞&lt;/div&gt;&lt;div&gt;* 発行済&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;＜文書形式＞&lt;br&gt;&lt;/div&gt;&lt;div&gt;* カスタムテンプレート&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;＜作成日＞&lt;/div&gt;&lt;div&gt;* 2021年10月&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;verticalAlign=top;align=left;spacingLeft=5;" parent="3UWcqDKJkAsrDeEhe3fB-1" vertex="1">
           <mxGeometry x="340" y="180" width="200" height="230" as="geometry" />
         </mxCell>
         <mxCell id="3UWcqDKJkAsrDeEhe3fB-24" value="Untitled Layer" style="" parent="3UWcqDKJkAsrDeEhe3fB-0" />
