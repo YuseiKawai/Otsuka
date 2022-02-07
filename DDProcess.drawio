@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-07T09:17:10.027Z" agent="5.0 (Macintosh)" etag="ya5VztWLc8C5wxGKmEYT" version="16.5.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-02-07T09:22:03.179Z" agent="5.0 (Macintosh)" etag="BSZqVbHnyDogfDW2gyfQ" version="16.5.3" type="github" pages="8">
   <diagram id="iuKAMjdSAFSw6GBmPtJa" name="Scope1">
     <mxGraphModel dx="1657" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -208,6 +208,55 @@
       <root>
         <mxCell id="kwe16WTq3SODDVzNMtVF-0" />
         <mxCell id="kwe16WTq3SODDVzNMtVF-1" parent="kwe16WTq3SODDVzNMtVF-0" />
+        <mxCell id="l872fR-AhnzcgyId2HrX-0" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fillColor=none;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=15;strokeColor=#788AA3;fontColor=#46495D;shadow=0;" vertex="1" parent="kwe16WTq3SODDVzNMtVF-1">
+          <mxGeometry x="210" y="190" width="1010" height="561" as="geometry" />
+        </mxCell>
+        <mxCell id="l872fR-AhnzcgyId2HrX-1" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="l872fR-AhnzcgyId2HrX-0">
+          <mxGeometry width="1010" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="l872fR-AhnzcgyId2HrX-2" value="手順書" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;strokeColor=#788AA3;fontColor=#46495D;fontSize=14;fillColor=#D4E1F5;opacity=60;" vertex="1" parent="l872fR-AhnzcgyId2HrX-1">
+          <mxGeometry width="250" height="50" as="geometry">
+            <mxRectangle width="250" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l872fR-AhnzcgyId2HrX-3" value="サブプロセス" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;strokeColor=#788AA3;fontColor=#46495D;fontSize=14;fillColor=#D4E1F5;opacity=60;" vertex="1" parent="l872fR-AhnzcgyId2HrX-1">
+          <mxGeometry x="250" width="252" height="50" as="geometry">
+            <mxRectangle width="252" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l872fR-AhnzcgyId2HrX-4" value="記録様式" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;strokeColor=#788AA3;fontColor=#46495D;fontSize=14;fillColor=#D4E1F5;opacity=60;" vertex="1" parent="l872fR-AhnzcgyId2HrX-1">
+          <mxGeometry x="502" width="254" height="50" as="geometry">
+            <mxRectangle width="254" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5aDRHEA1QAOSiMjfH2AS-2" value="参考手順" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;strokeColor=#788AA3;fontColor=#46495D;fontSize=14;fillColor=#D4E1F5;opacity=60;" vertex="1" parent="l872fR-AhnzcgyId2HrX-1">
+          <mxGeometry x="756" width="254" height="50" as="geometry">
+            <mxRectangle width="254" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l872fR-AhnzcgyId2HrX-5" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="l872fR-AhnzcgyId2HrX-0">
+          <mxGeometry y="50" width="1010" height="511" as="geometry" />
+        </mxCell>
+        <mxCell id="l872fR-AhnzcgyId2HrX-6" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="l872fR-AhnzcgyId2HrX-5">
+          <mxGeometry width="250" height="511" as="geometry">
+            <mxRectangle width="250" height="511" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l872fR-AhnzcgyId2HrX-7" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="l872fR-AhnzcgyId2HrX-5">
+          <mxGeometry x="250" width="252" height="511" as="geometry">
+            <mxRectangle width="252" height="511" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l872fR-AhnzcgyId2HrX-8" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="l872fR-AhnzcgyId2HrX-5">
+          <mxGeometry x="502" width="254" height="511" as="geometry">
+            <mxRectangle width="254" height="511" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5aDRHEA1QAOSiMjfH2AS-3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="l872fR-AhnzcgyId2HrX-5">
+          <mxGeometry x="756" width="254" height="511" as="geometry">
+            <mxRectangle width="254" height="511" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
