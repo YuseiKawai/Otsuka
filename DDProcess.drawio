@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-09T01:58:42.122Z" agent="5.0 (Windows)" etag="LpNA4D87CwhjTQB35uLW" version="16.5.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-02-09T02:36:58.115Z" agent="5.0 (Windows)" etag="v5xWaX07M33SQQu4Mw6a" version="16.5.2" type="github" pages="9">
   <diagram id="iuKAMjdSAFSw6GBmPtJa" name="Scope1">
     <mxGraphModel dx="2228" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -127,7 +127,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZCAo-ZA-OAc-q7RtXa3J" name="Scope w/DR">
-    <mxGraphModel dx="3698" dy="1080" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3243" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0bfAoqfOU0yHdPyfX0gx-0" />
         <mxCell id="0bfAoqfOU0yHdPyfX0gx-1" parent="0bfAoqfOU0yHdPyfX0gx-0" />
@@ -204,7 +204,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Aa9PFMxwlNfnsbcR9p8c" name="Doc_strucrure">
-    <mxGraphModel dx="1486" dy="916" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1865" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="kwe16WTq3SODDVzNMtVF-0" />
         <mxCell id="kwe16WTq3SODDVzNMtVF-1" parent="kwe16WTq3SODDVzNMtVF-0" />
@@ -420,7 +420,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PuTErIkUQHHaxOQW5xAx" name="PJ_structure">
-    <mxGraphModel dx="2288" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2228" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Yq5WNJcUjdj_qgMxefIM-0" />
         <mxCell id="Yq5WNJcUjdj_qgMxefIM-1" parent="Yq5WNJcUjdj_qgMxefIM-0" />
@@ -480,10 +480,10 @@
           <mxGeometry y="30" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="V2iPCos14DO_5KAPByNe-12" value="品質保証部" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#529ABA;fontColor=#FFFFFF;strokeColor=#B3B3B3;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="Yq5WNJcUjdj_qgMxefIM-1" vertex="1">
-          <mxGeometry x="130" y="660" width="150" height="110" as="geometry" />
+          <mxGeometry x="130" y="660" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="V2iPCos14DO_5KAPByNe-13" value="+  平野&#xa;+  五十嵐（兼）&#xa;+  河合（兼）&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="V2iPCos14DO_5KAPByNe-12" vertex="1">
-          <mxGeometry y="30" width="150" height="80" as="geometry" />
+          <mxGeometry y="30" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="V2iPCos14DO_5KAPByNe-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;fontColor=#666666;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#999999;strokeWidth=2;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="Yq5WNJcUjdj_qgMxefIM-1" source="UQh1Hxjci8IvZvAeTnAm-24" target="V2iPCos14DO_5KAPByNe-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
