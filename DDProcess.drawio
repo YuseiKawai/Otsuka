@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-08T02:32:50.881Z" agent="5.0 (Macintosh)" etag="Gaj43Ao1foImTerrNx5c" version="16.6.7" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-03-08T02:35:15.388Z" agent="5.0 (Macintosh)" etag="fB0tvpQifQSL6iwBFNsg" version="16.6.7" type="github" pages="10">
   <diagram id="iuKAMjdSAFSw6GBmPtJa" name="Scope1">
     <mxGraphModel dx="1940" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -575,7 +575,7 @@
             <mxRectangle width="184" height="74" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1H9iSUZGXjFVpsyKK1Hs-2" value="&lt;div&gt;- 製品のリスクマネージメント&lt;br&gt;&lt;/div&gt;&lt;div&gt;- 臨床試験時の不具合事情の&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;align=left;spacingLeft=5;fontColor=#666666;" vertex="1" parent="1H9iSUZGXjFVpsyKK1Hs-0">
+        <mxCell id="1H9iSUZGXjFVpsyKK1Hs-2" value="&lt;div&gt;- 設計開発時のリスクマネージメント&lt;br&gt;&lt;/div&gt;&lt;div&gt;- 臨床試験時の不具合事情の措置対応&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;align=left;spacingLeft=5;fontColor=#666666;" vertex="1" parent="1H9iSUZGXjFVpsyKK1Hs-0">
           <mxGeometry x="184" width="276" height="74" as="geometry">
             <mxRectangle width="276" height="74" as="alternateBounds" />
           </mxGeometry>
