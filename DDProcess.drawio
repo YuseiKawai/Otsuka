@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-08T02:35:15.388Z" agent="5.0 (Macintosh)" etag="fB0tvpQifQSL6iwBFNsg" version="16.6.7" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-04-01T02:03:00.652Z" agent="5.0 (Macintosh)" etag="FM7NNo2aMF-sgNainv7F" version="16.6.7" type="github" pages="10">
   <diagram id="iuKAMjdSAFSw6GBmPtJa" name="Scope1">
     <mxGraphModel dx="1940" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -420,14 +420,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PuTErIkUQHHaxOQW5xAx" name="PJ_structure">
-    <mxGraphModel dx="1940" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1148" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Yq5WNJcUjdj_qgMxefIM-0" />
         <mxCell id="Yq5WNJcUjdj_qgMxefIM-1" parent="Yq5WNJcUjdj_qgMxefIM-0" />
         <mxCell id="UQh1Hxjci8IvZvAeTnAm-23" value="プロジェクトリーダー" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#529ABA;fontColor=#FFFFFF;strokeColor=#B3B3B3;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="Yq5WNJcUjdj_qgMxefIM-1" vertex="1">
           <mxGeometry x="-260" y="300" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UQh1Hxjci8IvZvAeTnAm-24" value="+  関山" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="UQh1Hxjci8IvZvAeTnAm-23" vertex="1">
+        <mxCell id="UQh1Hxjci8IvZvAeTnAm-24" value="+  関山誠" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="UQh1Hxjci8IvZvAeTnAm-23" vertex="1">
           <mxGeometry y="30" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UQh1Hxjci8IvZvAeTnAm-25" value="プロジェクト推進室" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#529ABA;fontColor=#FFFFFF;strokeColor=#B3B3B3;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="Yq5WNJcUjdj_qgMxefIM-1" vertex="1">
@@ -435,7 +435,7 @@
             <mxRectangle x="290" y="380" width="160" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UQh1Hxjci8IvZvAeTnAm-26" value="+  山崎&#xa;+  伊藤&#xa;+  勝碕&#xa;+  河合" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="UQh1Hxjci8IvZvAeTnAm-25" vertex="1">
+        <mxCell id="UQh1Hxjci8IvZvAeTnAm-26" value="+  山崎陽子&#xa;+  伊藤祐貴&#xa;+  勝碕文朗&#xa;+  河合悠成" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="UQh1Hxjci8IvZvAeTnAm-25" vertex="1">
           <mxGeometry y="30" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="UQh1Hxjci8IvZvAeTnAm-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;fontColor=#FFFFFF;startArrow=none;startFill=0;strokeColor=#999999;strokeWidth=2;endArrow=none;endFill=0;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="Yq5WNJcUjdj_qgMxefIM-1" source="UQh1Hxjci8IvZvAeTnAm-24" target="UQh1Hxjci8IvZvAeTnAm-25" edge="1">
@@ -444,7 +444,7 @@
         <mxCell id="V2iPCos14DO_5KAPByNe-1" value="研究開発部" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#529ABA;fontColor=#FFFFFF;strokeColor=#B3B3B3;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="Yq5WNJcUjdj_qgMxefIM-1" vertex="1">
           <mxGeometry x="-620" y="660" width="160" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="V2iPCos14DO_5KAPByNe-2" value="+  足立&#xa;+  大山&#xa;+  三潟&#xa;+  久保田&#xa;+  永澤&#xa;+  高瀬&#xa;+  内藤" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="V2iPCos14DO_5KAPByNe-1" vertex="1">
+        <mxCell id="V2iPCos14DO_5KAPByNe-2" value="+  足立知也&#xa;+  大山貴志&#xa;+  三潟麻衣&#xa;+  久保田潤&#xa;+  永澤正和&#xa;+  高瀬大道&#xa;+  内藤真策" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="V2iPCos14DO_5KAPByNe-1" vertex="1">
           <mxGeometry y="30" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="V2iPCos14DO_5KAPByNe-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;fontColor=#666666;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#999999;strokeWidth=2;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="Yq5WNJcUjdj_qgMxefIM-1" source="UQh1Hxjci8IvZvAeTnAm-26" target="V2iPCos14DO_5KAPByNe-1" edge="1">
@@ -453,25 +453,25 @@
         <mxCell id="V2iPCos14DO_5KAPByNe-4" value="臨床開発部" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#529ABA;fontColor=#FFFFFF;strokeColor=#B3B3B3;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="Yq5WNJcUjdj_qgMxefIM-1" vertex="1">
           <mxGeometry x="-430" y="660" width="160" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="V2iPCos14DO_5KAPByNe-5" value="+  小路&#xa;+  石鍋&#xa;+  井上" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="V2iPCos14DO_5KAPByNe-4" vertex="1">
+        <mxCell id="V2iPCos14DO_5KAPByNe-5" value="+  小路利治&#xa;+  石鍋健太郎&#xa;+  井上亮輔" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="V2iPCos14DO_5KAPByNe-4" vertex="1">
           <mxGeometry y="30" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="V2iPCos14DO_5KAPByNe-6" value="薬事部" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#529ABA;fontColor=#FFFFFF;strokeColor=#B3B3B3;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="Yq5WNJcUjdj_qgMxefIM-1" vertex="1">
           <mxGeometry x="-245" y="660" width="160" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="V2iPCos14DO_5KAPByNe-7" value="+  高橋&#xa;+  前原&#xa;+  浅井" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="V2iPCos14DO_5KAPByNe-6" vertex="1">
+        <mxCell id="V2iPCos14DO_5KAPByNe-7" value="+  高橋喜元&#xa;+  前原敏也&#xa;+  浅井萌" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="V2iPCos14DO_5KAPByNe-6" vertex="1">
           <mxGeometry y="30" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="V2iPCos14DO_5KAPByNe-8" value="安全管理部" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#529ABA;fontColor=#FFFFFF;strokeColor=#B3B3B3;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="Yq5WNJcUjdj_qgMxefIM-1" vertex="1">
           <mxGeometry x="-60" y="660" width="160" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="V2iPCos14DO_5KAPByNe-9" value="+  和田&#xa;+  船木" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="V2iPCos14DO_5KAPByNe-8" vertex="1">
+        <mxCell id="V2iPCos14DO_5KAPByNe-9" value="+  和田恵子&#xa;+  船木健司" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="V2iPCos14DO_5KAPByNe-8" vertex="1">
           <mxGeometry y="30" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="V2iPCos14DO_5KAPByNe-12" value="品質保証部" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#529ABA;fontColor=#FFFFFF;strokeColor=#B3B3B3;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="Yq5WNJcUjdj_qgMxefIM-1" vertex="1">
           <mxGeometry x="130" y="660" width="160" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="V2iPCos14DO_5KAPByNe-13" value="+  寺嶋&#xa;+  五十嵐&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="V2iPCos14DO_5KAPByNe-12" vertex="1">
+        <mxCell id="V2iPCos14DO_5KAPByNe-13" value="+  寺嶋輝&#xa;+  五十嵐節子&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="V2iPCos14DO_5KAPByNe-12" vertex="1">
           <mxGeometry y="30" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="V2iPCos14DO_5KAPByNe-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;fontColor=#666666;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#999999;strokeWidth=2;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="Yq5WNJcUjdj_qgMxefIM-1" source="UQh1Hxjci8IvZvAeTnAm-26" target="V2iPCos14DO_5KAPByNe-4" edge="1">
@@ -567,15 +567,15 @@
             <mxRectangle width="276" height="74" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1H9iSUZGXjFVpsyKK1Hs-0" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" vertex="1" parent="L_j8PoeWTCbMNYoOu6hH-0">
+        <mxCell id="1H9iSUZGXjFVpsyKK1Hs-0" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="L_j8PoeWTCbMNYoOu6hH-0" vertex="1">
           <mxGeometry y="474" width="460" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="1H9iSUZGXjFVpsyKK1Hs-1" value="安全管理部" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#E6E6E6;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontColor=#666666;fontSize=14;align=left;spacingLeft=10;opacity=40;" vertex="1" parent="1H9iSUZGXjFVpsyKK1Hs-0">
+        <mxCell id="1H9iSUZGXjFVpsyKK1Hs-1" value="安全管理部" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#E6E6E6;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontColor=#666666;fontSize=14;align=left;spacingLeft=10;opacity=40;" parent="1H9iSUZGXjFVpsyKK1Hs-0" vertex="1">
           <mxGeometry width="184" height="74" as="geometry">
             <mxRectangle width="184" height="74" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1H9iSUZGXjFVpsyKK1Hs-2" value="&lt;div&gt;- 設計開発時のリスクマネージメント&lt;br&gt;&lt;/div&gt;&lt;div&gt;- 臨床試験時の不具合事情の措置対応&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;align=left;spacingLeft=5;fontColor=#666666;" vertex="1" parent="1H9iSUZGXjFVpsyKK1Hs-0">
+        <mxCell id="1H9iSUZGXjFVpsyKK1Hs-2" value="&lt;div&gt;- 設計開発時のリスクマネージメント&lt;br&gt;&lt;/div&gt;&lt;div&gt;- 臨床試験時の不具合事情の措置対応&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;align=left;spacingLeft=5;fontColor=#666666;" parent="1H9iSUZGXjFVpsyKK1Hs-0" vertex="1">
           <mxGeometry x="184" width="276" height="74" as="geometry">
             <mxRectangle width="276" height="74" as="alternateBounds" />
           </mxGeometry>
@@ -584,7 +584,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="st48_jE9CS9oup0v8fQp" name="GAP_VM&amp;OMD">
-    <mxGraphModel dx="1998" dy="1080" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1090" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Ncmma1ZJc_cOh69k3OGM-0" />
         <mxCell id="Ncmma1ZJc_cOh69k3OGM-1" parent="Ncmma1ZJc_cOh69k3OGM-0" />
@@ -649,7 +649,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="DocStorage" id="uSUCNL4iMfz7f8CjWB1Y">
-    <mxGraphModel dx="3698" dy="1080" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2790" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="7VwHzj42kwQhJVPAn3r5-0" />
         <mxCell id="7VwHzj42kwQhJVPAn3r5-1" parent="7VwHzj42kwQhJVPAn3r5-0" />
@@ -801,7 +801,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZE42oGExc5WqbOK2Fqf-" name="Meeting">
-    <mxGraphModel dx="1998" dy="1080" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1090" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="B6JgSWECATYwMOb2hMvR-0" />
         <mxCell id="B6JgSWECATYwMOb2hMvR-1" parent="B6JgSWECATYwMOb2hMvR-0" />
@@ -809,7 +809,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ExtQ2N98_CgnjT1G74Nd" name="Docs_tobepreparedNOW">
-    <mxGraphModel dx="1998" dy="1080" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1090" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ZWQeATHiny7E6jL63voP-0" />
         <mxCell id="ZWQeATHiny7E6jL63voP-1" parent="ZWQeATHiny7E6jL63voP-0" />
