@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-12T00:41:24.568Z" agent="5.0 (Windows)" etag="iWi1hE8TAZEekNAdMH0V" version="17.4.6" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-05-12T00:45:03.155Z" agent="5.0 (Windows)" etag="5a8L2hd1lc-KrLUGGBZo" version="17.4.6" type="github" pages="10">
   <diagram id="iuKAMjdSAFSw6GBmPtJa" name="Scope1">
     <mxGraphModel dx="2128" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -420,7 +420,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PuTErIkUQHHaxOQW5xAx" name="PJ_structure">
-    <mxGraphModel dx="1731" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1580" dy="383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Yq5WNJcUjdj_qgMxefIM-0" />
         <mxCell id="Yq5WNJcUjdj_qgMxefIM-1" parent="Yq5WNJcUjdj_qgMxefIM-0" />
@@ -575,7 +575,7 @@
             <mxRectangle width="184" height="74" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1H9iSUZGXjFVpsyKK1Hs-2" value="&lt;div&gt;- &lt;span lang=&quot;JA&quot;&gt;臨床試験における不具合等の評価&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span lang=&quot;JA&quot;&gt;- 設計管理プロセスへの専門的見地からの意見&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;align=left;spacingLeft=5;fontColor=#666666;" parent="1H9iSUZGXjFVpsyKK1Hs-0" vertex="1">
+        <mxCell id="1H9iSUZGXjFVpsyKK1Hs-2" value="&lt;div&gt;- &lt;span lang=&quot;JA&quot;&gt;臨床試験における不具合等の評価&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span lang=&quot;JA&quot;&gt;- 設計開発への専門的見地からの意見&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;align=left;spacingLeft=5;fontColor=#666666;" parent="1H9iSUZGXjFVpsyKK1Hs-0" vertex="1">
           <mxGeometry x="184" width="276" height="74" as="geometry">
             <mxRectangle width="276" height="74" as="alternateBounds" />
           </mxGeometry>
