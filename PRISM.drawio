@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-08-11T22:53:06.986Z" agent="5.0 (Windows)" etag="stijUYG9KiX647K0d8S0" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-11T23:02:09.340Z" agent="5.0 (Windows)" etag="jz3PCQeXtzcdt5g7CtUx" version="20.2.0" type="github">
   <diagram id="-1XbQWdAczWEwSHENw1Y" name="Page-1">
     <mxGraphModel dx="3411" dy="1083" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="92E8GHfRl66O824Zm0lk-59" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="92E8GHfRl66O824Zm0lk-59" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#999999;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="-650" y="240" width="980" height="570" as="geometry" />
         </mxCell>
         <mxCell id="92E8GHfRl66O824Zm0lk-3" value="プロジェクトチーム" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#529ABA;fontColor=#FFFFFF;strokeColor=#B3B3B3;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" vertex="1" parent="1">
@@ -187,13 +187,13 @@
         <mxCell id="92E8GHfRl66O824Zm0lk-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontSize=25;endArrow=none;endFill=0;strokeColor=#808080;" edge="1" parent="1" source="92E8GHfRl66O824Zm0lk-61" target="92E8GHfRl66O824Zm0lk-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="92E8GHfRl66O824Zm0lk-61" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="92E8GHfRl66O824Zm0lk-61" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#999999;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="-1180" y="240" width="420" height="570" as="geometry" />
         </mxCell>
         <mxCell id="92E8GHfRl66O824Zm0lk-62" value="GMH" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="-1180" y="200" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="92E8GHfRl66O824Zm0lk-65" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="92E8GHfRl66O824Zm0lk-65" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#999999;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="410" y="240" width="650" height="570" as="geometry" />
         </mxCell>
         <mxCell id="92E8GHfRl66O824Zm0lk-66" value="OPC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;labelBackgroundColor=default;" vertex="1" parent="1">
