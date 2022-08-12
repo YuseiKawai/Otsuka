@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-12T00:28:06.476Z" agent="5.0 (Windows)" etag="itP8C88aTu8TAAyGi8fl" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-12T04:52:55.975Z" agent="5.0 (Windows)" etag="_2zdglr9R4-zGUgvxVtZ" version="20.2.0" type="github">
   <diagram id="-1XbQWdAczWEwSHENw1Y" name="Page-1">
-    <mxGraphModel dx="2898" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3138" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -84,7 +84,7 @@
         <mxCell id="92E8GHfRl66O824Zm0lk-25" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" vertex="1" parent="92E8GHfRl66O824Zm0lk-21">
           <mxGeometry y="74" width="520" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="92E8GHfRl66O824Zm0lk-26" value="プロジェクト推進室" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#E6E6E6;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontColor=#666666;fontSize=14;align=left;spacingLeft=10;opacity=40;" vertex="1" parent="92E8GHfRl66O824Zm0lk-25">
+        <mxCell id="92E8GHfRl66O824Zm0lk-26" value="戦略企画部" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#E6E6E6;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontColor=#666666;fontSize=14;align=left;spacingLeft=10;opacity=40;" vertex="1" parent="92E8GHfRl66O824Zm0lk-25">
           <mxGeometry width="184" height="73" as="geometry">
             <mxRectangle width="184" height="73" as="alternateBounds" />
           </mxGeometry>
