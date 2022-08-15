@@ -1,4 +1,4 @@
-<mxfile modified="2022-08-15T22:44:11.579Z" host="app.diagrams.net" agent="5.0 (Macintosh)" etag="5z1Yt0bVYVp24ZjdpV5g" version="20.2.2" type="github" pages="2">
+<mxfile modified="2022-08-15T23:30:23.911Z" host="app.diagrams.net" agent="5.0 (Macintosh)" etag="glQUnc8JgnVr3zJ2P1As" version="20.2.2" type="github" pages="2">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1090" dy="1476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -191,6 +191,33 @@
         </mxCell>
         <mxCell id="CR3_k2j_1zhsYrPa0cFa-1" value="&lt;div&gt;意識の高さ&lt;/div&gt;&lt;div&gt;x&lt;/div&gt;&lt;div&gt;健康行動の有無&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="170" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CR3_k2j_1zhsYrPa0cFa-5" value="" style="endArrow=oval;html=1;rounded=0;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontSize=16;fontColor=#666666;strokeColor=#999999;startArrow=oval;startFill=1;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="120" as="sourcePoint" />
+            <mxPoint x="390" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CR3_k2j_1zhsYrPa0cFa-6" value="割り付け" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Noto Sans;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CR3_k2j_1zhsYrPa0cFa-7" value="" style="endArrow=oval;html=1;rounded=0;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontSize=16;fontColor=#666666;strokeColor=#999999;startArrow=oval;startFill=1;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="120" as="sourcePoint" />
+            <mxPoint x="550" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CR3_k2j_1zhsYrPa0cFa-8" value="介入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Noto Sans;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="455" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CR3_k2j_1zhsYrPa0cFa-9" value="" style="endArrow=oval;html=1;rounded=0;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontSize=16;fontColor=#666666;strokeColor=#999999;startArrow=oval;startFill=1;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="120" as="sourcePoint" />
+            <mxPoint x="760" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CR3_k2j_1zhsYrPa0cFa-10" value="層別解析" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Noto Sans;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="625" y="80" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
