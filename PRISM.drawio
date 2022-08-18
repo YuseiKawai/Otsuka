@@ -1,222 +1,407 @@
-<mxfile host="app.diagrams.net" modified="2022-08-12T07:31:47.678Z" agent="5.0 (Windows)" etag="Eqas63hANumJswOJujiv" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-18T00:24:03.407Z" agent="5.0 (Windows)" etag="HD-FD9UoDs_L-K_oaMKG" version="20.2.3" type="github" pages="2">
   <diagram id="-1XbQWdAczWEwSHENw1Y" name="Page-1">
-    <mxGraphModel dx="2692" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2898" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="92E8GHfRl66O824Zm0lk-59" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#999999;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="92E8GHfRl66O824Zm0lk-59" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#999999;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="-650" y="240" width="980" height="570" as="geometry" />
         </mxCell>
-        <mxCell id="92E8GHfRl66O824Zm0lk-3" value="プロジェクトチーム" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#529ABA;fontColor=#FFFFFF;strokeColor=#B3B3B3;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" vertex="1" parent="1">
+        <mxCell id="92E8GHfRl66O824Zm0lk-3" value="NFBプロジェクト" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#529ABA;fontColor=#FFFFFF;strokeColor=#B3B3B3;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="1" vertex="1">
           <mxGeometry x="-260" y="430" width="190" height="100" as="geometry">
             <mxRectangle x="290" y="380" width="160" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="92E8GHfRl66O824Zm0lk-4" value="+  山田佐紀子　&#xa;+  木村瑞樹" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" vertex="1" parent="92E8GHfRl66O824Zm0lk-3">
+        <mxCell id="92E8GHfRl66O824Zm0lk-4" value="+  山田佐紀子　&#xa;+  木村瑞樹" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="92E8GHfRl66O824Zm0lk-3" vertex="1">
           <mxGeometry y="30" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="92E8GHfRl66O824Zm0lk-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;fontColor=#FFFFFF;startArrow=none;startFill=0;strokeColor=#999999;strokeWidth=2;endArrow=none;endFill=0;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" edge="1" parent="1" target="92E8GHfRl66O824Zm0lk-3">
+        <mxCell id="92E8GHfRl66O824Zm0lk-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;fontColor=#FFFFFF;startArrow=none;startFill=0;strokeColor=#999999;strokeWidth=2;endArrow=none;endFill=0;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="1" target="92E8GHfRl66O824Zm0lk-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-165" y="379.9999999999999" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="92E8GHfRl66O824Zm0lk-6" value="研究開発部" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#529ABA;fontColor=#FFFFFF;strokeColor=#B3B3B3;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" vertex="1" parent="1">
+        <mxCell id="92E8GHfRl66O824Zm0lk-6" value="研究開発部" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#529ABA;fontColor=#FFFFFF;strokeColor=#B3B3B3;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="1" vertex="1">
           <mxGeometry x="-620" y="660" width="160" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="92E8GHfRl66O824Zm0lk-7" value="+  久保田潤" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" vertex="1" parent="92E8GHfRl66O824Zm0lk-6">
+        <mxCell id="92E8GHfRl66O824Zm0lk-7" value="+  久保田潤" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="92E8GHfRl66O824Zm0lk-6" vertex="1">
           <mxGeometry y="30" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="92E8GHfRl66O824Zm0lk-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;fontColor=#666666;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#999999;strokeWidth=2;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" edge="1" parent="1" source="92E8GHfRl66O824Zm0lk-4" target="92E8GHfRl66O824Zm0lk-6">
+        <mxCell id="92E8GHfRl66O824Zm0lk-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;fontColor=#666666;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#999999;strokeWidth=2;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="1" source="92E8GHfRl66O824Zm0lk-4" target="92E8GHfRl66O824Zm0lk-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="92E8GHfRl66O824Zm0lk-9" value="臨床開発部" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#529ABA;fontColor=#FFFFFF;strokeColor=#B3B3B3;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" vertex="1" parent="1">
+        <mxCell id="92E8GHfRl66O824Zm0lk-9" value="臨床開発部" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#529ABA;fontColor=#FFFFFF;strokeColor=#B3B3B3;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="1" vertex="1">
           <mxGeometry x="-430" y="660" width="160" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="92E8GHfRl66O824Zm0lk-10" value="+  小路利治&#xa;+  澤田" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" vertex="1" parent="92E8GHfRl66O824Zm0lk-9">
+        <mxCell id="92E8GHfRl66O824Zm0lk-10" value="+  小路利治&#xa;+  澤田" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="92E8GHfRl66O824Zm0lk-9" vertex="1">
           <mxGeometry y="30" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="92E8GHfRl66O824Zm0lk-11" value="薬事部" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#529ABA;fontColor=#FFFFFF;strokeColor=#B3B3B3;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" vertex="1" parent="1">
+        <mxCell id="92E8GHfRl66O824Zm0lk-11" value="薬事部" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#529ABA;fontColor=#FFFFFF;strokeColor=#B3B3B3;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="1" vertex="1">
           <mxGeometry x="-245" y="660" width="160" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="92E8GHfRl66O824Zm0lk-12" value="+  高橋喜元&#xa;+  田崎真理子" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" vertex="1" parent="92E8GHfRl66O824Zm0lk-11">
+        <mxCell id="92E8GHfRl66O824Zm0lk-12" value="+  高橋喜元&#xa;+  田崎真理子" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="92E8GHfRl66O824Zm0lk-11" vertex="1">
           <mxGeometry y="30" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="92E8GHfRl66O824Zm0lk-13" value="安全管理部" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#529ABA;fontColor=#FFFFFF;strokeColor=#B3B3B3;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" vertex="1" parent="1">
+        <mxCell id="92E8GHfRl66O824Zm0lk-13" value="安全管理部" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#529ABA;fontColor=#FFFFFF;strokeColor=#B3B3B3;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="1" vertex="1">
           <mxGeometry x="-60" y="660" width="160" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="92E8GHfRl66O824Zm0lk-14" value="+  和田恵子&#xa;+  塩地" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" vertex="1" parent="92E8GHfRl66O824Zm0lk-13">
+        <mxCell id="92E8GHfRl66O824Zm0lk-14" value="+  和田恵子&#xa;+  塩地" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="92E8GHfRl66O824Zm0lk-13" vertex="1">
           <mxGeometry y="30" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="92E8GHfRl66O824Zm0lk-15" value="品質保証部" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#529ABA;fontColor=#FFFFFF;strokeColor=#B3B3B3;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" vertex="1" parent="1">
+        <mxCell id="92E8GHfRl66O824Zm0lk-15" value="品質保証部" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#529ABA;fontColor=#FFFFFF;strokeColor=#B3B3B3;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="1" vertex="1">
           <mxGeometry x="130" y="660" width="160" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="92E8GHfRl66O824Zm0lk-16" value="+  寺嶋輝" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" vertex="1" parent="92E8GHfRl66O824Zm0lk-15">
+        <mxCell id="92E8GHfRl66O824Zm0lk-16" value="+  寺嶋輝" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="92E8GHfRl66O824Zm0lk-15" vertex="1">
           <mxGeometry y="30" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="92E8GHfRl66O824Zm0lk-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;fontColor=#666666;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#999999;strokeWidth=2;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" edge="1" parent="1" source="92E8GHfRl66O824Zm0lk-4" target="92E8GHfRl66O824Zm0lk-9">
+        <mxCell id="92E8GHfRl66O824Zm0lk-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;fontColor=#666666;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#999999;strokeWidth=2;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="1" source="92E8GHfRl66O824Zm0lk-4" target="92E8GHfRl66O824Zm0lk-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="92E8GHfRl66O824Zm0lk-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;fontColor=#666666;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#999999;strokeWidth=2;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" edge="1" parent="1" source="92E8GHfRl66O824Zm0lk-4" target="92E8GHfRl66O824Zm0lk-11">
+        <mxCell id="92E8GHfRl66O824Zm0lk-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;fontColor=#666666;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#999999;strokeWidth=2;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="1" source="92E8GHfRl66O824Zm0lk-4" target="92E8GHfRl66O824Zm0lk-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="92E8GHfRl66O824Zm0lk-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;fontColor=#666666;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#999999;strokeWidth=2;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" edge="1" parent="1" source="92E8GHfRl66O824Zm0lk-4" target="92E8GHfRl66O824Zm0lk-13">
+        <mxCell id="92E8GHfRl66O824Zm0lk-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;fontColor=#666666;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#999999;strokeWidth=2;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="1" source="92E8GHfRl66O824Zm0lk-4" target="92E8GHfRl66O824Zm0lk-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="92E8GHfRl66O824Zm0lk-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;fontColor=#666666;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#999999;strokeWidth=2;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" edge="1" parent="1" source="92E8GHfRl66O824Zm0lk-4" target="92E8GHfRl66O824Zm0lk-15">
+        <mxCell id="92E8GHfRl66O824Zm0lk-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;fontColor=#666666;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#999999;strokeWidth=2;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="1" source="92E8GHfRl66O824Zm0lk-4" target="92E8GHfRl66O824Zm0lk-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="92E8GHfRl66O824Zm0lk-21" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;strokeColor=#E6E6E6;strokeWidth=4;fontSize=12;fontColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="-650" y="870" width="520" height="548" as="geometry" />
+        <mxCell id="92E8GHfRl66O824Zm0lk-21" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;strokeColor=#E6E6E6;strokeWidth=4;fontSize=12;fontColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="-590" y="920" width="520" height="548" as="geometry" />
         </mxCell>
-        <mxCell id="92E8GHfRl66O824Zm0lk-22" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" vertex="1" parent="92E8GHfRl66O824Zm0lk-21">
+        <mxCell id="92E8GHfRl66O824Zm0lk-22" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="92E8GHfRl66O824Zm0lk-21" vertex="1">
           <mxGeometry width="520" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="92E8GHfRl66O824Zm0lk-23" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;プロジェクトチーム&lt;/font&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#E6E6E6;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontColor=#666666;fontSize=14;align=left;spacingLeft=10;opacity=40;" vertex="1" parent="92E8GHfRl66O824Zm0lk-22">
+        <mxCell id="92E8GHfRl66O824Zm0lk-23" value="NFBプロジェクト" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#E6E6E6;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontColor=#666666;fontSize=14;align=left;spacingLeft=10;opacity=40;" parent="92E8GHfRl66O824Zm0lk-22" vertex="1">
           <mxGeometry width="184" height="74" as="geometry">
             <mxRectangle width="184" height="74" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="92E8GHfRl66O824Zm0lk-24" value="&lt;div&gt;- 設計開発の戦略、方針決定。&lt;/div&gt;&lt;div&gt;- 課題、リスク、スコープ変更への意思決定&lt;br&gt;- 各設計開発プロセス成果物の承認&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;align=left;spacingLeft=5;fontColor=#666666;" vertex="1" parent="92E8GHfRl66O824Zm0lk-22">
+        <mxCell id="92E8GHfRl66O824Zm0lk-24" value="&lt;div&gt;- 設計開発の戦略、方針決定。&lt;/div&gt;&lt;div&gt;- 課題、リスク、スコープ変更への意思決定&lt;br&gt;- 各設計開発プロセス成果物の承認&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;align=left;spacingLeft=5;fontColor=#666666;" parent="92E8GHfRl66O824Zm0lk-22" vertex="1">
           <mxGeometry x="184" width="336" height="74" as="geometry">
             <mxRectangle width="336" height="74" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="92E8GHfRl66O824Zm0lk-25" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" vertex="1" parent="92E8GHfRl66O824Zm0lk-21">
+        <mxCell id="92E8GHfRl66O824Zm0lk-25" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="92E8GHfRl66O824Zm0lk-21" vertex="1">
           <mxGeometry y="74" width="520" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="92E8GHfRl66O824Zm0lk-26" value="戦略企画部" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#E6E6E6;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontColor=#666666;fontSize=14;align=left;spacingLeft=10;opacity=40;" vertex="1" parent="92E8GHfRl66O824Zm0lk-25">
+        <mxCell id="92E8GHfRl66O824Zm0lk-26" value="戦略企画部" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#E6E6E6;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontColor=#666666;fontSize=14;align=left;spacingLeft=10;opacity=40;" parent="92E8GHfRl66O824Zm0lk-25" vertex="1">
           <mxGeometry width="184" height="73" as="geometry">
             <mxRectangle width="184" height="73" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="92E8GHfRl66O824Zm0lk-27" value="- プロジェクト管理支援&lt;br&gt;&lt;div&gt;- 全体作業統括、管理&lt;br&gt;&lt;/div&gt;&lt;div&gt;- 設計審査会の事務局&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;align=left;spacingLeft=5;fontColor=#666666;" vertex="1" parent="92E8GHfRl66O824Zm0lk-25">
+        <mxCell id="92E8GHfRl66O824Zm0lk-27" value="- プロジェクト管理支援&lt;br&gt;&lt;div&gt;- 全体作業統括、管理&lt;br&gt;&lt;/div&gt;&lt;div&gt;- 設計審査会の事務局&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;align=left;spacingLeft=5;fontColor=#666666;" parent="92E8GHfRl66O824Zm0lk-25" vertex="1">
           <mxGeometry x="184" width="336" height="73" as="geometry">
             <mxRectangle width="336" height="73" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="92E8GHfRl66O824Zm0lk-28" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" vertex="1" parent="92E8GHfRl66O824Zm0lk-21">
+        <mxCell id="92E8GHfRl66O824Zm0lk-28" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="92E8GHfRl66O824Zm0lk-21" vertex="1">
           <mxGeometry y="147" width="520" height="106" as="geometry" />
         </mxCell>
-        <mxCell id="92E8GHfRl66O824Zm0lk-29" value="研究開発部" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#E6E6E6;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontColor=#666666;fontSize=14;align=left;spacingLeft=10;opacity=40;" vertex="1" parent="92E8GHfRl66O824Zm0lk-28">
+        <mxCell id="92E8GHfRl66O824Zm0lk-29" value="研究開発部" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#E6E6E6;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontColor=#666666;fontSize=14;align=left;spacingLeft=10;opacity=40;" parent="92E8GHfRl66O824Zm0lk-28" vertex="1">
           <mxGeometry width="184" height="106" as="geometry">
             <mxRectangle width="184" height="106" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="92E8GHfRl66O824Zm0lk-30" value="- DHFの作成&lt;br&gt;&lt;div&gt;- 設計開発プロセスの各種資料作成&lt;/div&gt;&lt;div&gt;- 設計インプット作成&lt;/div&gt;&lt;div&gt;- 設計アウトプット作成&lt;/div&gt;&lt;div&gt;- DMRの作成と更新&lt;/div&gt;&lt;div&gt;- 設計審査の資料作成&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;align=left;spacingLeft=5;fontColor=#666666;" vertex="1" parent="92E8GHfRl66O824Zm0lk-28">
+        <mxCell id="92E8GHfRl66O824Zm0lk-30" value="- DHFの作成&lt;br&gt;&lt;div&gt;- 設計開発プロセスの各種資料作成&lt;/div&gt;&lt;div&gt;- 設計インプット作成&lt;/div&gt;&lt;div&gt;- 設計アウトプット作成&lt;/div&gt;&lt;div&gt;- DMRの作成と更新&lt;/div&gt;&lt;div&gt;- 設計審査の資料作成&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;align=left;spacingLeft=5;fontColor=#666666;" parent="92E8GHfRl66O824Zm0lk-28" vertex="1">
           <mxGeometry x="184" width="336" height="106" as="geometry">
             <mxRectangle width="336" height="106" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="92E8GHfRl66O824Zm0lk-31" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" vertex="1" parent="92E8GHfRl66O824Zm0lk-21">
+        <mxCell id="92E8GHfRl66O824Zm0lk-31" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="92E8GHfRl66O824Zm0lk-21" vertex="1">
           <mxGeometry y="253" width="520" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="92E8GHfRl66O824Zm0lk-32" value="品質保証部" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#E6E6E6;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontColor=#666666;fontSize=14;align=left;spacingLeft=10;opacity=40;" vertex="1" parent="92E8GHfRl66O824Zm0lk-31">
+        <mxCell id="92E8GHfRl66O824Zm0lk-32" value="品質保証部" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#E6E6E6;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontColor=#666666;fontSize=14;align=left;spacingLeft=10;opacity=40;" parent="92E8GHfRl66O824Zm0lk-31" vertex="1">
           <mxGeometry width="184" height="73" as="geometry">
             <mxRectangle width="184" height="73" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="92E8GHfRl66O824Zm0lk-33" value="&lt;div&gt;- 設計品質の管理&lt;br&gt;&lt;/div&gt;&lt;div&gt;- 設計管理手順に準じて作成された成果物のとりまとめ&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;align=left;spacingLeft=5;fontColor=#666666;spacingRight=4;" vertex="1" parent="92E8GHfRl66O824Zm0lk-31">
+        <mxCell id="92E8GHfRl66O824Zm0lk-33" value="&lt;div&gt;- 設計品質の管理&lt;br&gt;&lt;/div&gt;&lt;div&gt;- 設計管理手順に準じて作成された成果物のとりまとめ&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;align=left;spacingLeft=5;fontColor=#666666;spacingRight=4;" parent="92E8GHfRl66O824Zm0lk-31" vertex="1">
           <mxGeometry x="184" width="336" height="73" as="geometry">
             <mxRectangle width="336" height="73" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="92E8GHfRl66O824Zm0lk-34" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" vertex="1" parent="92E8GHfRl66O824Zm0lk-21">
+        <mxCell id="92E8GHfRl66O824Zm0lk-34" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="92E8GHfRl66O824Zm0lk-21" vertex="1">
           <mxGeometry y="326" width="520" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="92E8GHfRl66O824Zm0lk-35" value="薬事部" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#E6E6E6;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontColor=#666666;fontSize=14;align=left;spacingLeft=10;opacity=40;" vertex="1" parent="92E8GHfRl66O824Zm0lk-34">
+        <mxCell id="92E8GHfRl66O824Zm0lk-35" value="薬事部" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#E6E6E6;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontColor=#666666;fontSize=14;align=left;spacingLeft=10;opacity=40;" parent="92E8GHfRl66O824Zm0lk-34" vertex="1">
           <mxGeometry width="184" height="74" as="geometry">
             <mxRectangle width="184" height="74" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="92E8GHfRl66O824Zm0lk-36" value="&lt;div&gt;- 承認申請の戦略策定&lt;/div&gt;&lt;div&gt;- 申請資料に関するインプット&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;align=left;spacingLeft=5;fontColor=#666666;" vertex="1" parent="92E8GHfRl66O824Zm0lk-34">
+        <mxCell id="92E8GHfRl66O824Zm0lk-36" value="&lt;div&gt;- 承認申請の戦略策定&lt;/div&gt;&lt;div&gt;- 申請資料に関するインプット&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;align=left;spacingLeft=5;fontColor=#666666;" parent="92E8GHfRl66O824Zm0lk-34" vertex="1">
           <mxGeometry x="184" width="336" height="74" as="geometry">
             <mxRectangle width="336" height="74" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="92E8GHfRl66O824Zm0lk-37" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" vertex="1" parent="92E8GHfRl66O824Zm0lk-21">
+        <mxCell id="92E8GHfRl66O824Zm0lk-37" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="92E8GHfRl66O824Zm0lk-21" vertex="1">
           <mxGeometry y="400" width="520" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="92E8GHfRl66O824Zm0lk-38" value="臨床開発部" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#E6E6E6;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontColor=#666666;fontSize=14;align=left;spacingLeft=10;opacity=40;" vertex="1" parent="92E8GHfRl66O824Zm0lk-37">
+        <mxCell id="92E8GHfRl66O824Zm0lk-38" value="臨床開発部" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#E6E6E6;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontColor=#666666;fontSize=14;align=left;spacingLeft=10;opacity=40;" parent="92E8GHfRl66O824Zm0lk-37" vertex="1">
           <mxGeometry width="184" height="74" as="geometry">
             <mxRectangle width="184" height="74" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="92E8GHfRl66O824Zm0lk-39" value="&lt;div&gt;- 統計解析支援&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;align=left;spacingLeft=5;fontColor=#666666;" vertex="1" parent="92E8GHfRl66O824Zm0lk-37">
+        <mxCell id="92E8GHfRl66O824Zm0lk-39" value="&lt;div&gt;- 統計解析支援&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;align=left;spacingLeft=5;fontColor=#666666;" parent="92E8GHfRl66O824Zm0lk-37" vertex="1">
           <mxGeometry x="184" width="336" height="74" as="geometry">
             <mxRectangle width="336" height="74" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="92E8GHfRl66O824Zm0lk-40" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" vertex="1" parent="92E8GHfRl66O824Zm0lk-21">
+        <mxCell id="92E8GHfRl66O824Zm0lk-40" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="92E8GHfRl66O824Zm0lk-21" vertex="1">
           <mxGeometry y="474" width="520" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="92E8GHfRl66O824Zm0lk-41" value="安全管理部" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#E6E6E6;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontColor=#666666;fontSize=14;align=left;spacingLeft=10;opacity=40;" vertex="1" parent="92E8GHfRl66O824Zm0lk-40">
+        <mxCell id="92E8GHfRl66O824Zm0lk-41" value="安全管理部" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#E6E6E6;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontColor=#666666;fontSize=14;align=left;spacingLeft=10;opacity=40;" parent="92E8GHfRl66O824Zm0lk-40" vertex="1">
           <mxGeometry width="184" height="74" as="geometry">
             <mxRectangle width="184" height="74" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="92E8GHfRl66O824Zm0lk-42" value="&lt;div&gt;- &lt;span lang=&quot;JA&quot;&gt;臨床試験における不具合等の評価&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span lang=&quot;JA&quot;&gt;- 設計開発への専門的見地からの意見&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;align=left;spacingLeft=5;fontColor=#666666;" vertex="1" parent="92E8GHfRl66O824Zm0lk-40">
+        <mxCell id="92E8GHfRl66O824Zm0lk-42" value="&lt;div&gt;- &lt;span lang=&quot;JA&quot;&gt;臨床試験における不具合等の評価&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span lang=&quot;JA&quot;&gt;- 設計開発への専門的見地からの意見&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;align=left;spacingLeft=5;fontColor=#666666;" parent="92E8GHfRl66O824Zm0lk-40" vertex="1">
           <mxGeometry x="184" width="336" height="74" as="geometry">
             <mxRectangle width="336" height="74" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="92E8GHfRl66O824Zm0lk-43" value="戦略企画部" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#529ABA;fontColor=#FFFFFF;strokeColor=#B3B3B3;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" vertex="1" parent="1">
+        <mxCell id="92E8GHfRl66O824Zm0lk-43" value="戦略企画部" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#529ABA;fontColor=#FFFFFF;strokeColor=#B3B3B3;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="1" vertex="1">
           <mxGeometry x="-8" y="430" width="190" height="100" as="geometry">
             <mxRectangle x="290" y="380" width="160" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="92E8GHfRl66O824Zm0lk-44" value="+  伊藤祐貴&#xa;+  山下肇" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" vertex="1" parent="92E8GHfRl66O824Zm0lk-43">
+        <mxCell id="92E8GHfRl66O824Zm0lk-44" value="+  伊藤祐貴&#xa;+  山下肇" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="92E8GHfRl66O824Zm0lk-43" vertex="1">
           <mxGeometry y="30" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="92E8GHfRl66O824Zm0lk-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#808080;endArrow=none;endFill=0;" edge="1" parent="1" source="92E8GHfRl66O824Zm0lk-4" target="92E8GHfRl66O824Zm0lk-44">
+        <mxCell id="92E8GHfRl66O824Zm0lk-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#808080;endArrow=none;endFill=0;" parent="1" source="92E8GHfRl66O824Zm0lk-4" target="92E8GHfRl66O824Zm0lk-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="92E8GHfRl66O824Zm0lk-51" value="JSC" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#529ABA;fontColor=#FFFFFF;strokeColor=#B3B3B3;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" vertex="1" parent="1">
+        <mxCell id="92E8GHfRl66O824Zm0lk-51" value="JSC" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#529ABA;fontColor=#FFFFFF;strokeColor=#B3B3B3;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="1" vertex="1">
           <mxGeometry x="-260" y="280" width="190" height="100" as="geometry">
             <mxRectangle x="290" y="380" width="160" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="92E8GHfRl66O824Zm0lk-52" value="+  小林&#xa;+  ベル&#xa;+  足立　" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" vertex="1" parent="92E8GHfRl66O824Zm0lk-51">
+        <mxCell id="92E8GHfRl66O824Zm0lk-52" value="+  小林&#xa;+  ベル&#xa;+  足立　" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="92E8GHfRl66O824Zm0lk-51" vertex="1">
           <mxGeometry y="30" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="92E8GHfRl66O824Zm0lk-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontSize=25;endArrow=none;endFill=0;strokeColor=#808080;" edge="1" parent="1" source="92E8GHfRl66O824Zm0lk-59" target="92E8GHfRl66O824Zm0lk-65">
+        <mxCell id="92E8GHfRl66O824Zm0lk-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontSize=25;endArrow=none;endFill=0;strokeColor=#808080;" parent="1" source="92E8GHfRl66O824Zm0lk-59" target="92E8GHfRl66O824Zm0lk-65" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="92E8GHfRl66O824Zm0lk-60" value="OMD" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="92E8GHfRl66O824Zm0lk-60" value="OMD" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="-650" y="200" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="92E8GHfRl66O824Zm0lk-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontSize=25;endArrow=none;endFill=0;strokeColor=#808080;" edge="1" parent="1" source="92E8GHfRl66O824Zm0lk-61" target="92E8GHfRl66O824Zm0lk-59">
+        <mxCell id="92E8GHfRl66O824Zm0lk-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontSize=25;endArrow=none;endFill=0;strokeColor=#808080;" parent="1" source="92E8GHfRl66O824Zm0lk-61" target="92E8GHfRl66O824Zm0lk-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="92E8GHfRl66O824Zm0lk-61" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#999999;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="92E8GHfRl66O824Zm0lk-61" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#999999;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="-1180" y="240" width="420" height="570" as="geometry" />
         </mxCell>
-        <mxCell id="92E8GHfRl66O824Zm0lk-62" value="GMH" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="92E8GHfRl66O824Zm0lk-62" value="GMH" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="-1180" y="200" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="92E8GHfRl66O824Zm0lk-65" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#999999;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="92E8GHfRl66O824Zm0lk-65" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#999999;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="410" y="240" width="450" height="570" as="geometry" />
         </mxCell>
-        <mxCell id="92E8GHfRl66O824Zm0lk-66" value="OPC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="92E8GHfRl66O824Zm0lk-66" value="OPC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="410" y="200" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="92E8GHfRl66O824Zm0lk-68" value="JSC" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#529ABA;fontColor=#FFFFFF;strokeColor=#B3B3B3;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" vertex="1" parent="1">
+        <mxCell id="92E8GHfRl66O824Zm0lk-68" value="JSC" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#529ABA;fontColor=#FFFFFF;strokeColor=#B3B3B3;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="1" vertex="1">
           <mxGeometry x="-1070" y="390" width="190" height="100" as="geometry">
             <mxRectangle x="290" y="380" width="160" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="92E8GHfRl66O824Zm0lk-69" value="+  Oded　" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" vertex="1" parent="92E8GHfRl66O824Zm0lk-68">
+        <mxCell id="92E8GHfRl66O824Zm0lk-69" value="+  Oded　" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="92E8GHfRl66O824Zm0lk-68" vertex="1">
           <mxGeometry y="30" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="92E8GHfRl66O824Zm0lk-70" value="薬事・品質・臨床" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#529ABA;fontColor=#FFFFFF;strokeColor=#B3B3B3;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" vertex="1" parent="1">
+        <mxCell id="92E8GHfRl66O824Zm0lk-70" value="薬事・品質・臨床" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#529ABA;fontColor=#FFFFFF;strokeColor=#B3B3B3;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="1" vertex="1">
           <mxGeometry x="-1070" y="610" width="190" height="100" as="geometry">
             <mxRectangle x="290" y="380" width="160" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="92E8GHfRl66O824Zm0lk-71" value="+  Adar" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" vertex="1" parent="92E8GHfRl66O824Zm0lk-70">
+        <mxCell id="92E8GHfRl66O824Zm0lk-71" value="+  Adar" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="92E8GHfRl66O824Zm0lk-70" vertex="1">
           <mxGeometry y="30" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="92E8GHfRl66O824Zm0lk-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontSize=25;endArrow=none;endFill=0;strokeColor=#808080;" edge="1" parent="1" source="92E8GHfRl66O824Zm0lk-69" target="92E8GHfRl66O824Zm0lk-70">
+        <mxCell id="92E8GHfRl66O824Zm0lk-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontSize=25;endArrow=none;endFill=0;strokeColor=#808080;" parent="1" source="92E8GHfRl66O824Zm0lk-69" target="92E8GHfRl66O824Zm0lk-70" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Copy of Page-1" id="_4BfrQj6seCPca6UJSrX">
+    <mxGraphModel dx="1939" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="KwA7nL_i_iJWys4iSLyL-0" />
+        <mxCell id="KwA7nL_i_iJWys4iSLyL-1" parent="KwA7nL_i_iJWys4iSLyL-0" />
+        <mxCell id="KwA7nL_i_iJWys4iSLyL-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#999999;strokeWidth=3;" vertex="1" parent="KwA7nL_i_iJWys4iSLyL-1">
+          <mxGeometry x="-650" y="240" width="980" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="KwA7nL_i_iJWys4iSLyL-3" value="NFBプロジェクト" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#529ABA;fontColor=#FFFFFF;strokeColor=#B3B3B3;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" vertex="1" parent="KwA7nL_i_iJWys4iSLyL-1">
+          <mxGeometry x="-260" y="430" width="190" height="100" as="geometry">
+            <mxRectangle x="290" y="380" width="160" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KwA7nL_i_iJWys4iSLyL-4" value="+  山田佐紀子　&#xa;+  木村瑞樹" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" vertex="1" parent="KwA7nL_i_iJWys4iSLyL-3">
+          <mxGeometry y="30" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KwA7nL_i_iJWys4iSLyL-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;fontColor=#FFFFFF;startArrow=none;startFill=0;strokeColor=#999999;strokeWidth=2;endArrow=none;endFill=0;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" edge="1" parent="KwA7nL_i_iJWys4iSLyL-1" target="KwA7nL_i_iJWys4iSLyL-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-165" y="379.9999999999999" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KwA7nL_i_iJWys4iSLyL-6" value="研究開発部" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#529ABA;fontColor=#FFFFFF;strokeColor=#B3B3B3;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" vertex="1" parent="KwA7nL_i_iJWys4iSLyL-1">
+          <mxGeometry x="-620" y="660" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KwA7nL_i_iJWys4iSLyL-7" value="+  久保田潤" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" vertex="1" parent="KwA7nL_i_iJWys4iSLyL-6">
+          <mxGeometry y="30" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KwA7nL_i_iJWys4iSLyL-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;fontColor=#666666;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#999999;strokeWidth=2;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" edge="1" parent="KwA7nL_i_iJWys4iSLyL-1" source="KwA7nL_i_iJWys4iSLyL-4" target="KwA7nL_i_iJWys4iSLyL-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KwA7nL_i_iJWys4iSLyL-9" value="臨床開発部" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#529ABA;fontColor=#FFFFFF;strokeColor=#B3B3B3;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" vertex="1" parent="KwA7nL_i_iJWys4iSLyL-1">
+          <mxGeometry x="-430" y="660" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KwA7nL_i_iJWys4iSLyL-10" value="+  小路利治&#xa;+  澤田" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" vertex="1" parent="KwA7nL_i_iJWys4iSLyL-9">
+          <mxGeometry y="30" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KwA7nL_i_iJWys4iSLyL-11" value="薬事部" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#529ABA;fontColor=#FFFFFF;strokeColor=#B3B3B3;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" vertex="1" parent="KwA7nL_i_iJWys4iSLyL-1">
+          <mxGeometry x="-245" y="660" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KwA7nL_i_iJWys4iSLyL-12" value="+  高橋喜元&#xa;+  田崎真理子" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" vertex="1" parent="KwA7nL_i_iJWys4iSLyL-11">
+          <mxGeometry y="30" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KwA7nL_i_iJWys4iSLyL-13" value="安全管理部" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#529ABA;fontColor=#FFFFFF;strokeColor=#B3B3B3;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" vertex="1" parent="KwA7nL_i_iJWys4iSLyL-1">
+          <mxGeometry x="-60" y="660" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KwA7nL_i_iJWys4iSLyL-14" value="+  和田恵子&#xa;+  塩地" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" vertex="1" parent="KwA7nL_i_iJWys4iSLyL-13">
+          <mxGeometry y="30" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KwA7nL_i_iJWys4iSLyL-15" value="品質保証部" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#529ABA;fontColor=#FFFFFF;strokeColor=#B3B3B3;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" vertex="1" parent="KwA7nL_i_iJWys4iSLyL-1">
+          <mxGeometry x="130" y="660" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KwA7nL_i_iJWys4iSLyL-16" value="+  寺嶋輝" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" vertex="1" parent="KwA7nL_i_iJWys4iSLyL-15">
+          <mxGeometry y="30" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KwA7nL_i_iJWys4iSLyL-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;fontColor=#666666;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#999999;strokeWidth=2;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" edge="1" parent="KwA7nL_i_iJWys4iSLyL-1" source="KwA7nL_i_iJWys4iSLyL-4" target="KwA7nL_i_iJWys4iSLyL-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KwA7nL_i_iJWys4iSLyL-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;fontColor=#666666;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#999999;strokeWidth=2;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" edge="1" parent="KwA7nL_i_iJWys4iSLyL-1" source="KwA7nL_i_iJWys4iSLyL-4" target="KwA7nL_i_iJWys4iSLyL-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KwA7nL_i_iJWys4iSLyL-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;fontColor=#666666;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#999999;strokeWidth=2;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" edge="1" parent="KwA7nL_i_iJWys4iSLyL-1" source="KwA7nL_i_iJWys4iSLyL-4" target="KwA7nL_i_iJWys4iSLyL-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KwA7nL_i_iJWys4iSLyL-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;fontColor=#666666;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#999999;strokeWidth=2;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" edge="1" parent="KwA7nL_i_iJWys4iSLyL-1" source="KwA7nL_i_iJWys4iSLyL-4" target="KwA7nL_i_iJWys4iSLyL-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KwA7nL_i_iJWys4iSLyL-21" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;strokeColor=#E6E6E6;strokeWidth=4;fontSize=12;fontColor=#666666;" vertex="1" parent="KwA7nL_i_iJWys4iSLyL-1">
+          <mxGeometry x="360" y="251" width="520" height="548" as="geometry" />
+        </mxCell>
+        <mxCell id="KwA7nL_i_iJWys4iSLyL-22" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" vertex="1" parent="KwA7nL_i_iJWys4iSLyL-21">
+          <mxGeometry width="520" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="KwA7nL_i_iJWys4iSLyL-23" value="NFBプロジェクト" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#E6E6E6;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontColor=#666666;fontSize=14;align=left;spacingLeft=10;opacity=40;" vertex="1" parent="KwA7nL_i_iJWys4iSLyL-22">
+          <mxGeometry width="184" height="74" as="geometry">
+            <mxRectangle width="184" height="74" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KwA7nL_i_iJWys4iSLyL-24" value="&lt;div&gt;- 設計開発の戦略、方針決定。&lt;/div&gt;&lt;div&gt;- 課題、リスク、スコープ変更への意思決定&lt;br&gt;- 各設計開発プロセス成果物の承認&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;align=left;spacingLeft=5;fontColor=#666666;" vertex="1" parent="KwA7nL_i_iJWys4iSLyL-22">
+          <mxGeometry x="184" width="336" height="74" as="geometry">
+            <mxRectangle width="336" height="74" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KwA7nL_i_iJWys4iSLyL-25" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" vertex="1" parent="KwA7nL_i_iJWys4iSLyL-21">
+          <mxGeometry y="74" width="520" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="KwA7nL_i_iJWys4iSLyL-26" value="戦略企画部" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#E6E6E6;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontColor=#666666;fontSize=14;align=left;spacingLeft=10;opacity=40;" vertex="1" parent="KwA7nL_i_iJWys4iSLyL-25">
+          <mxGeometry width="184" height="73" as="geometry">
+            <mxRectangle width="184" height="73" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KwA7nL_i_iJWys4iSLyL-27" value="- プロジェクト管理支援&lt;br&gt;&lt;div&gt;- 全体作業統括、管理&lt;br&gt;&lt;/div&gt;&lt;div&gt;- 設計審査会の事務局&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;align=left;spacingLeft=5;fontColor=#666666;" vertex="1" parent="KwA7nL_i_iJWys4iSLyL-25">
+          <mxGeometry x="184" width="336" height="73" as="geometry">
+            <mxRectangle width="336" height="73" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KwA7nL_i_iJWys4iSLyL-28" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" vertex="1" parent="KwA7nL_i_iJWys4iSLyL-21">
+          <mxGeometry y="147" width="520" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="KwA7nL_i_iJWys4iSLyL-29" value="研究開発部" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#E6E6E6;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontColor=#666666;fontSize=14;align=left;spacingLeft=10;opacity=40;" vertex="1" parent="KwA7nL_i_iJWys4iSLyL-28">
+          <mxGeometry width="184" height="106" as="geometry">
+            <mxRectangle width="184" height="106" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KwA7nL_i_iJWys4iSLyL-30" value="- DHFの作成&lt;br&gt;&lt;div&gt;- 設計開発プロセスの各種資料作成&lt;/div&gt;&lt;div&gt;- 設計インプット作成&lt;/div&gt;&lt;div&gt;- 設計アウトプット作成&lt;/div&gt;&lt;div&gt;- DMRの作成と更新&lt;/div&gt;&lt;div&gt;- 設計審査の資料作成&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;align=left;spacingLeft=5;fontColor=#666666;" vertex="1" parent="KwA7nL_i_iJWys4iSLyL-28">
+          <mxGeometry x="184" width="336" height="106" as="geometry">
+            <mxRectangle width="336" height="106" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KwA7nL_i_iJWys4iSLyL-31" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" vertex="1" parent="KwA7nL_i_iJWys4iSLyL-21">
+          <mxGeometry y="253" width="520" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="KwA7nL_i_iJWys4iSLyL-32" value="品質保証部" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#E6E6E6;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontColor=#666666;fontSize=14;align=left;spacingLeft=10;opacity=40;" vertex="1" parent="KwA7nL_i_iJWys4iSLyL-31">
+          <mxGeometry width="184" height="73" as="geometry">
+            <mxRectangle width="184" height="73" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KwA7nL_i_iJWys4iSLyL-33" value="&lt;div&gt;- 設計品質の管理&lt;br&gt;&lt;/div&gt;&lt;div&gt;- 設計管理手順に準じて作成された成果物のとりまとめ&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;align=left;spacingLeft=5;fontColor=#666666;spacingRight=4;" vertex="1" parent="KwA7nL_i_iJWys4iSLyL-31">
+          <mxGeometry x="184" width="336" height="73" as="geometry">
+            <mxRectangle width="336" height="73" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KwA7nL_i_iJWys4iSLyL-34" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" vertex="1" parent="KwA7nL_i_iJWys4iSLyL-21">
+          <mxGeometry y="326" width="520" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="KwA7nL_i_iJWys4iSLyL-35" value="薬事部" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#E6E6E6;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontColor=#666666;fontSize=14;align=left;spacingLeft=10;opacity=40;" vertex="1" parent="KwA7nL_i_iJWys4iSLyL-34">
+          <mxGeometry width="184" height="74" as="geometry">
+            <mxRectangle width="184" height="74" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KwA7nL_i_iJWys4iSLyL-36" value="&lt;div&gt;- 承認申請の戦略策定&lt;/div&gt;&lt;div&gt;- 申請資料に関するインプット&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;align=left;spacingLeft=5;fontColor=#666666;" vertex="1" parent="KwA7nL_i_iJWys4iSLyL-34">
+          <mxGeometry x="184" width="336" height="74" as="geometry">
+            <mxRectangle width="336" height="74" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KwA7nL_i_iJWys4iSLyL-37" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" vertex="1" parent="KwA7nL_i_iJWys4iSLyL-21">
+          <mxGeometry y="400" width="520" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="KwA7nL_i_iJWys4iSLyL-38" value="臨床開発部" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#E6E6E6;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontColor=#666666;fontSize=14;align=left;spacingLeft=10;opacity=40;" vertex="1" parent="KwA7nL_i_iJWys4iSLyL-37">
+          <mxGeometry width="184" height="74" as="geometry">
+            <mxRectangle width="184" height="74" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KwA7nL_i_iJWys4iSLyL-39" value="&lt;div&gt;- 統計解析支援&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;align=left;spacingLeft=5;fontColor=#666666;" vertex="1" parent="KwA7nL_i_iJWys4iSLyL-37">
+          <mxGeometry x="184" width="336" height="74" as="geometry">
+            <mxRectangle width="336" height="74" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KwA7nL_i_iJWys4iSLyL-40" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" vertex="1" parent="KwA7nL_i_iJWys4iSLyL-21">
+          <mxGeometry y="474" width="520" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="KwA7nL_i_iJWys4iSLyL-41" value="安全管理部" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#E6E6E6;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontColor=#666666;fontSize=14;align=left;spacingLeft=10;opacity=40;" vertex="1" parent="KwA7nL_i_iJWys4iSLyL-40">
+          <mxGeometry width="184" height="74" as="geometry">
+            <mxRectangle width="184" height="74" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KwA7nL_i_iJWys4iSLyL-42" value="&lt;div&gt;- &lt;span lang=&quot;JA&quot;&gt;臨床試験における不具合等の評価&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span lang=&quot;JA&quot;&gt;- 設計開発への専門的見地からの意見&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;align=left;spacingLeft=5;fontColor=#666666;" vertex="1" parent="KwA7nL_i_iJWys4iSLyL-40">
+          <mxGeometry x="184" width="336" height="74" as="geometry">
+            <mxRectangle width="336" height="74" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KwA7nL_i_iJWys4iSLyL-43" value="戦略企画部" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#529ABA;fontColor=#FFFFFF;strokeColor=#B3B3B3;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" vertex="1" parent="KwA7nL_i_iJWys4iSLyL-1">
+          <mxGeometry x="-8" y="430" width="190" height="100" as="geometry">
+            <mxRectangle x="290" y="380" width="160" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KwA7nL_i_iJWys4iSLyL-44" value="+  伊藤祐貴&#xa;+  山下肇" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" vertex="1" parent="KwA7nL_i_iJWys4iSLyL-43">
+          <mxGeometry y="30" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KwA7nL_i_iJWys4iSLyL-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#808080;endArrow=none;endFill=0;" edge="1" parent="KwA7nL_i_iJWys4iSLyL-1" source="KwA7nL_i_iJWys4iSLyL-4" target="KwA7nL_i_iJWys4iSLyL-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KwA7nL_i_iJWys4iSLyL-46" value="JSC" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#529ABA;fontColor=#FFFFFF;strokeColor=#B3B3B3;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" vertex="1" parent="KwA7nL_i_iJWys4iSLyL-1">
+          <mxGeometry x="-260" y="280" width="190" height="100" as="geometry">
+            <mxRectangle x="290" y="380" width="160" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KwA7nL_i_iJWys4iSLyL-47" value="+  小林&#xa;+  ベル&#xa;+  足立　" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" vertex="1" parent="KwA7nL_i_iJWys4iSLyL-46">
+          <mxGeometry y="30" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KwA7nL_i_iJWys4iSLyL-49" value="OMD" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;labelBackgroundColor=default;" vertex="1" parent="KwA7nL_i_iJWys4iSLyL-1">
+          <mxGeometry x="-650" y="200" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
