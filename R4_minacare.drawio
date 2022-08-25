@@ -1,6 +1,6 @@
-<mxfile modified="2022-08-15T23:34:13.696Z" host="app.diagrams.net" agent="5.0 (Macintosh)" etag="EH2mtFg8stP2XZM4uKsc" version="20.2.2" type="github" pages="2">
+<mxfile modified="2022-08-25T06:44:13.116Z" host="app.diagrams.net" agent="5.0 (Macintosh)" etag="pa53wBMN6eV7kQnzZhR8" version="20.2.4" type="github" pages="2">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="1090" dy="1476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1090" dy="1521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -149,7 +149,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1CA_GA3ViuIzhN8S0iA_" name="Page-2">
-    <mxGraphModel dx="1090" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1875" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -162,20 +162,17 @@
         <mxCell id="qogo93ruA8AiiIQki2AL-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#666666;" parent="1" source="qogo93ruA8AiiIQki2AL-1" target="qogo93ruA8AiiIQki2AL-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qogo93ruA8AiiIQki2AL-1" value="参加者女性" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="qogo93ruA8AiiIQki2AL-1" value="女性" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="260" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qogo93ruA8AiiIQki2AL-5" value="更年期不調あり" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="qogo93ruA8AiiIQki2AL-5" value="更年期対象" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="180" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qogo93ruA8AiiIQki2AL-7" value="痩せリスクあり" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="qogo93ruA8AiiIQki2AL-7" value="痩せリスク対象" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="260" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qogo93ruA8AiiIQki2AL-10" value="その他" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="qogo93ruA8AiiIQki2AL-10" value="上記以外" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="340" width="110" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CR3_k2j_1zhsYrPa0cFa-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontSize=16;fontColor=#666666;" edge="1" parent="1" source="qogo93ruA8AiiIQki2AL-21" target="CR3_k2j_1zhsYrPa0cFa-1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qogo93ruA8AiiIQki2AL-21" value="Content-A" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fillColor=#529ABA;strokeColor=none;fontColor=#FFFFFF;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="430" y="170" width="120" height="60" as="geometry" />
@@ -189,35 +186,69 @@
         <mxCell id="qogo93ruA8AiiIQki2AL-24" value="" style="triangle;whiteSpace=wrap;html=1;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontColor=#FFFFFF;fillColor=#B3B3B3;rotation=-180;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="400" y="266.65999999999997" width="20" height="26.67" as="geometry" />
         </mxCell>
-        <mxCell id="CR3_k2j_1zhsYrPa0cFa-1" value="&lt;div&gt;意識の高さ&lt;/div&gt;&lt;div&gt;x&lt;/div&gt;&lt;div&gt;健康行動の有無&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="170" width="160" height="60" as="geometry" />
+        <mxCell id="CR3_k2j_1zhsYrPa0cFa-1" value="&lt;p style=&quot;line-height: 1.4;&quot;&gt;健康行動/意識のフェーズにより参加者を分類し、分類された参加者における各種分析を実施&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacingLeft=3;spacingRight=3;align=left;" parent="1" vertex="1">
+          <mxGeometry x="590" y="170" width="160" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="CR3_k2j_1zhsYrPa0cFa-5" value="" style="endArrow=oval;html=1;rounded=0;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontSize=16;fontColor=#666666;strokeColor=#999999;startArrow=oval;startFill=1;endFill=1;" edge="1" parent="1">
+        <mxCell id="CR3_k2j_1zhsYrPa0cFa-5" value="" style="endArrow=oval;html=1;rounded=0;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontSize=16;fontColor=#666666;strokeColor=#999999;startArrow=oval;startFill=1;endFill=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="120" y="120" as="sourcePoint" />
+            <mxPoint x="-40" y="120" as="sourcePoint" />
             <mxPoint x="390" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CR3_k2j_1zhsYrPa0cFa-6" value="割り付け" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Noto Sans;fontColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="200" y="80" width="90" height="30" as="geometry" />
+        <mxCell id="CR3_k2j_1zhsYrPa0cFa-6" value="割り付け" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Noto Sans;fontColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="120" y="80" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CR3_k2j_1zhsYrPa0cFa-7" value="" style="endArrow=oval;html=1;rounded=0;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontSize=16;fontColor=#666666;strokeColor=#999999;startArrow=oval;startFill=1;endFill=1;" edge="1" parent="1">
+        <mxCell id="CR3_k2j_1zhsYrPa0cFa-7" value="" style="endArrow=oval;html=1;rounded=0;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontSize=16;fontColor=#666666;strokeColor=#999999;startArrow=oval;startFill=1;endFill=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="120" as="sourcePoint" />
             <mxPoint x="550" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CR3_k2j_1zhsYrPa0cFa-8" value="介入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Noto Sans;fontColor=#666666;" vertex="1" parent="1">
+        <mxCell id="CR3_k2j_1zhsYrPa0cFa-8" value="介入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Noto Sans;fontColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="455" y="80" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CR3_k2j_1zhsYrPa0cFa-9" value="" style="endArrow=oval;html=1;rounded=0;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontSize=16;fontColor=#666666;strokeColor=#999999;startArrow=oval;startFill=1;endFill=1;" edge="1" parent="1">
+        <mxCell id="CR3_k2j_1zhsYrPa0cFa-9" value="" style="endArrow=oval;html=1;rounded=0;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontSize=16;fontColor=#666666;strokeColor=#999999;startArrow=oval;startFill=1;endFill=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="580" y="120" as="sourcePoint" />
             <mxPoint x="760" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CR3_k2j_1zhsYrPa0cFa-10" value="層別解析" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Noto Sans;fontColor=#666666;" vertex="1" parent="1">
+        <mxCell id="CR3_k2j_1zhsYrPa0cFa-10" value="層別解析" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Noto Sans;fontColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="625" y="80" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F5XmYezbvbXdHC0AANMt-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#666666;" edge="1" parent="1" source="F5XmYezbvbXdHC0AANMt-1" target="qogo93ruA8AiiIQki2AL-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="360" />
+              <mxPoint x="110" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F5XmYezbvbXdHC0AANMt-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#666666;" edge="1" parent="1" source="F5XmYezbvbXdHC0AANMt-1" target="F5XmYezbvbXdHC0AANMt-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="360" />
+              <mxPoint x="110" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F5XmYezbvbXdHC0AANMt-1" value="参加者" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="340" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F5XmYezbvbXdHC0AANMt-3" value="男性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="420" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F5XmYezbvbXdHC0AANMt-7" value="Content-C" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fillColor=#529ABA;strokeColor=none;fontColor=#FFFFFF;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="430" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F5XmYezbvbXdHC0AANMt-8" value="" style="triangle;whiteSpace=wrap;html=1;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontColor=#FFFFFF;fillColor=#B3B3B3;rotation=-180;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="346.65999999999997" width="20" height="26.67" as="geometry" />
+        </mxCell>
+        <mxCell id="F5XmYezbvbXdHC0AANMt-9" value="Content-D" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fillColor=#529ABA;strokeColor=none;fontColor=#FFFFFF;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="430" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F5XmYezbvbXdHC0AANMt-10" value="" style="triangle;whiteSpace=wrap;html=1;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontColor=#FFFFFF;fillColor=#B3B3B3;rotation=-180;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="426.65999999999997" width="20" height="26.67" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
